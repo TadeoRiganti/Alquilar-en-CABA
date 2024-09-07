@@ -3,7 +3,7 @@ Este repositorio contiene todos los documentos con los cuales esta herramienta f
 
 <div align="center">
   <kbd>
-    <img src="https://i.imgur.com/zdY3ZC9.png" />
+    <img src="https://imgur.com/a/MCOnXHG" />
   </kbd>
 </div>
 
