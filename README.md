@@ -7,65 +7,86 @@ Este repositorio contiene todos los documentos con los cuales esta herramienta f
   </kbd>
 </div>
 
-## Description
+## Descripción
 
-Longer description explaining the rationale/intent behind the project, what it's good for, and how it works. If the next two subsections are short enough, they can be merged up into this block—perhaps as bulleted lists.
+Completar! Longer description explaining the rationale/intent behind the project, what it's good for, and how it works. If the next two subsections are short enough, they can be merged up into this block—perhaps as bulleted lists.
 
-### Features
+### Funcionalidades
 
-- It's TINY. A short README is a good README.
-- List other standout qualities that'll make a potential user want to try out your project.
+- Mapa interactivo.
+- Visualizacion de datos relacionados a CABA:
+  - Urbanismo:
+    - Comunas y barrios.
+    - Villas y asentamientos informales.
+  - Movilidad:
+    - Estaciones de SUBTE.
+    - Estaciones de Ferrocarril.
+  - Estadisticas de Delito:
+    - Robo total.
+    - Robo automotor.
+    - Hurto total.
+    - Hurto automotor.
+- Planilla de relevamiento.
 
-### Built with
+### Desarrollado con
 
-- Markdown
-- Love
+- Google My Maps
+- Google Sheets
+- Python
 
-## Getting started
+## Como empezar
 
-### Prerequisites
+### Prerrequisitos
 
-Dependencies not explicitly covered in the installation process; e.g., OS restrictions.
+Completar!  Dependencies not explicitly covered in the installation process; e.g., OS restrictions.
 
-### Install
+### Instalacion
 
-Ideally, write a script whose usage is described here.
+Completar! Ideally, write a script whose usage is described here.
 
-### Configure
+### Configuracion
 
-Manual, context-specific tasks not covered in the installation process.
+Completar! Manual, context-specific tasks not covered in the installation process.
 
-### Usage
+### Uso
 
-GIFs are useful here to see the project in action.
+Completar! Agregar GIFS!
 
-### Troubleshooting
+### Preguntas frecuentes
 
-Or FAQs, if that's more appropriate.
+Completar!
 
-## Back matter
+## Back matter (???)
 
-### Legal disclaimer
+### Aviso legal
 
-Usage of this tool for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+El uso indebido de esta herramienta para atacar objetivos es ilegal. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables. Los desarrolladores no asumen ninguna responsabilidad y no son responsables de ningún mal uso o daño causado por este programa.
 
 ### Acknowledgements
 
-Thanks to all who helped inspire this template.
+Gracias a la Ciudad de Buenos Aires por liberar al publico su extensa base de datos. 
 
-### See also
+### Sitios de interes
 
-- [A simple README.md template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-- [A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-- [A sample README for all your GitHub projects](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-- [A simple README.md template to kickstart projects](https://github.com/me-and-company/readme-template)
+- [Buenos Aires Data](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+- [Mapa interactivo de CABA](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+- [Mapa del delito](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+- [Jhon (Script)](https://github.com/me-and-company/readme-template)
+- [Google Devs - KML](https://github.com/me-and-company/readme-template)
 
 ### To-do
 
-- [ ] Still need to do this
-- [ ] ~~Decided not to do this~~
-- [x] Done!
+- [x] Publicar el avance del proyecto
+- [x] Crear la pagina de Facebook
+- [ ] Armar la presentación en Behance
+- [x] Armar el repositorio de github
+- [ ] Completar el documento README.md
+- [ ] Agregar guias de uso / normas de colaboracion
+- [ ] Agregar la documentacion tecnica
+- [ ] Subir el script de python
+- [ ] Publicar en Behance
+- [ ] Publicar en Linkedin
 
-### License
+### Licencia
 
-This project is licensed under the [MIT License](LICENSE.md).
+Este proyecto tiene una [licencia MIT](LICENSE.md).
