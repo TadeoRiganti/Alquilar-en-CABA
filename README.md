@@ -3,7 +3,7 @@ Este repositorio contiene todos los documentos con los cuales esta herramienta f
 
 <div align="center">
   <kbd>
-    <img src="https://imgur.com/a/MCOnXHG" />
+    <img src="https://raw.githubusercontent.com/TadeoRiganti/Alquilar-en-CABA/main/kit-de-prensa/gh-banner-readme.png" />
   </kbd>
 </div>
 
