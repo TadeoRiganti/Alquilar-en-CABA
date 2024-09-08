@@ -52,7 +52,7 @@ A diferencia de la carga manual, se genera automaticamente una **descripcion con
 - **Enlace a la publicación**
 
 
-##### Seguimiento automatico
+#### Seguimiento automatico
 
 Opcionalmente, podés elegir **automatizar el seguimiento** de las publicaciones de alquileres, **actualizando los datos en tiempo real** para que siempre tengas la información correcta.
 
