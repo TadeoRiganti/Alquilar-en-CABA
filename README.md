@@ -9,10 +9,30 @@ Este repositorio contiene todos los documentos con los cuales esta herramienta f
 
 ## Descripción
 
-La Ciudad Autonona de Buenos Aires es grande. Tanto asi que se divide en 15 comunas (que es algo asi como los partidos de las provincias) y posee alrededor de 48 barrios oficiales.
-Esta herramienta esta pensada como una referencia mas (a las recomendaciones de conocidos, a los blogs, a las publicaciones en foros), con la diferencia que permite visualizar datos que sean de nuestro interes y que puedan ayudar a evaluar donde conviene alquilar en CABA:
+Capital federal es una ciudad **enorme** y mudarse a este destino puede ser todo un desafio. 
+Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decisión informada**, basada en [**datos reales**]((https://data.buenosaires.gob.ar/dataset/)) sobre transporte, seguridad, servicios y puntos de interés.
 
-Desde cuestiones basicas como la movilidad (estaciones de SUBTE cercanas, ferrocarril, paradas de colectivo, de taxis), cuestiones complejas como la inseguridad en cada zona, pero además tambien permite saber si cerca del lugar hay espacios culturales, bares, una bicicleteria hasta incluso una lavanderia. 
+### Funcionalidades
+
+Es como el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/), pero si puedieras elegir ver al mismo tiempo aquellos datos que te importan.
+En esta primera versión, las capas de mapa disponibles son:
+  - Urbanismo:
+    - Comunas y barrios.
+    - Villas y asentamientos informales.
+      
+  - Movilidad:
+    - Estaciones de SUBTE.
+    - Estaciones de Ferrocarril.
+      
+  - Estadisticas de Delito:
+    - Robo total.
+    - Robo automotor.
+    - Hurto total.
+    - Hurto automotor.
+
+
+
+Es una prueba de concepto 
 
 Y es que todo esto esta disponible en la [base de datos](https://data.buenosaires.gob.ar/dataset/) que la ciudad pone a dispocision del publico.
 Esta herramienta toma varios de esos set de datos y los pone a dispocision de las personas "de a pie" en un mapa interactivo personalizable.
