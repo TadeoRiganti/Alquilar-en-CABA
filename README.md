@@ -37,10 +37,20 @@ En esta primera versión, las capas de mapa **disponibles** son:
   
 #### Planilla de carga
 
-Esta planilla transforma tu lista de alquileres a una capa de mapa con todas las ubicaciones.
-Lo interesante es que, al seleccionar cualquiera de los marcadores del mapa, aparece una ventana flotante con informacion relevante que hayas agregado, como puede ser el precio total del alquiler (precio + expensas), la superficie cubierta, una breve descripcion del inmueble y un enlace a la publicacion.
+Esta planilla **transforma tu lista** de alquileres relevados a una capa de mapa con todas las ubicaciones.
 
 <img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/Infografia-planilla-mapa.png?raw=true">
+
+A diferencia de la carga manual, se genera automaticamente una **descripcion con datos clave**, que aparece como una ventana flotante al hacer click en cualquier marcador.
+- **Datos clave:**
+    - Precio total
+    - Superficie cubierta
+    - Precio /m2
+
+- **Descripción breve**
+  
+- **Enlace a la publicación**
+
 
 ##### Seguimiento automatico
 
