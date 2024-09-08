@@ -16,7 +16,9 @@ Desde cuestiones basicas como la movilidad (Estaciones de SUBTE cercanas, ferroc
 
 Y es que todo esto esta disponible en la base de datos que la ciudad pone a dispocision del publico.
 Y esta herramienta lo grafica en un mapa interactivo personalizable.
-Es algo asi como el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/comollego/?lat=-34.620000&lng=-58.440000&zl=12&modo=transporte), pero con esteroides.
+
+En esta etapa inicial no es mas que una humilde prueba de concepto, que mezcla el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/comollego/?lat=-34.620000&lng=-58.440000&zl=12&modo=transporte) con el [mapa del delito](https://mapa.seguridadciudad.gob.ar/) para ayudar con este tema.
+Pero conforme avancen las pruebas de usabilidad y entrevistas, probablemente evolucione de manera diferente. 
 
 
 Completar! Longer description explaining the rationale/intent behind the project, what it's good for, and how it works. If the next two subsections are short enough, they can be merged up into this block—perhaps as bulleted lists.
