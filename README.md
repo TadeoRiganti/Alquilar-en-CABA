@@ -47,18 +47,18 @@ En esta primera versión, la descripción no se puede configurar y muestra los s
     - Precio total
     - Superficie cubierta
     - Precio /m2
-
 - **Descripción breve**
-  
 - **Enlace a la publicación**
+
 
 
 #### Seguimiento automatico
 
 Opcionalmente, podés elegir **automatizar el seguimiento** de las publicaciones de alquileres, **actualizando los datos en tiempo real** para que siempre tengas la información correcta.
 
-Como utiliza funciones de extracción de datos web, por defecto esta funcionalidd esta desconectada de la planilla. 
-Si queres saber porque esta desarrollado asi, te invito a leer el [articulo de la wiki](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos) donde se explica a fondo. 
+Como utiliza funciones de **extracción de datos web**, por defecto **esta funcionalidad esta desconectada** de la planilla. 
+En la wiki, esta la (guía de uso para conectar el modulo)[#] que tambien goza de la misma licencia.
+Si queres saber porque esta desarrollado asi, te invito a leer el [articulo de la wiki](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos) donde se **explica la cuestión** a fondo. 
 
 ### Desarrollado con
 
