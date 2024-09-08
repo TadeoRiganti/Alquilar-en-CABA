@@ -17,7 +17,7 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
 #### Capas de mapa:
 
 Es como el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/), pero con la posibilidad de elegir ver lo que te importa al mismo tiempo.
-<img align="right" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/capas-de-mapa.png?raw=true">
+<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/capas-de-mapa.png?raw=true">
 
 En esta primera versión, las capas de mapa **disponibles** son:
   - **Urbanismo:**
@@ -39,6 +39,8 @@ En esta primera versión, las capas de mapa **disponibles** son:
 
 Esta planilla transforma tu lista de alquileres a una capa de mapa con todas las ubicaciones.
 Lo interesante es que, al seleccionar cualquiera de los marcadores del mapa, aparece una ventana flotante con informacion relevante que hayas agregado, como puede ser el precio total del alquiler (precio + expensas), la superficie cubierta, una breve descripcion del inmueble y un enlace a la publicacion.
+
+<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/Infografia-planilla-mapa.png?raw=true">
 
 ##### Seguimiento automatico
 
