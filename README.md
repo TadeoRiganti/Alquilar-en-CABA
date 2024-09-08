@@ -62,11 +62,28 @@ Si queres saber porque esta desarrollado asi, te invito a leer el [articulo de l
 - [Google Sheets](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Sheets-%E2%80%90-Implementacion)
 - [Python](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Python-Script-%E2%80%90-Conversi%C3%B3n-CSV%E2%80%90KML)
 
-## Como empezar
+## Conseguí tu propia copia!
 
 ### Prerrequisitos
 
-Completar!  Dependencies not explicitly covered in the installation process; e.g., OS restrictions.
+Como esta desarrollado con productos de Google, solo necesitas tener una cuenta de Google.
+
+### Enlaces
+
+- [**Mapa interactivo**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Obtener-una-copia-%E2%80%90-Alquila-en-CABA)
+- [**Planilla de carga**](https://docs.google.com/spreadsheets/d/1n8KmH8Q9s2Fp96RFHQW84AAExconjnvSWJ40BhUe-6I/copy)
+- [**Modulo Extracción de datos**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Guia-de-instalacion-%E2%80%90-Seguimiento-automatico)
+
+
+## Como colaborar
+
+Para esta primera version, solamente utilice 7 set de datos de los 433 disponibles en [BA DATA](https://data.buenosaires.gob.ar/).
+Si queres armar una capa de dato que no existe, pero no sabes como hacerlo, te dejo la guia con la tecnica que use yo.
+Y si queres colaborar, tambien podes! De hecho, la idea es que este producto crezca gracias a la comunidad.
+
+### Prerrequisitos
+
+Tener una cuenta de Google.
 
 ### Instalacion
 
