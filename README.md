@@ -10,7 +10,7 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
 
 ## Tabla de contenidos
 
-[[_TOC_]]
+[TOC]
 
 ### Funcionalidades
 
