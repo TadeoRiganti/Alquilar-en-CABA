@@ -26,7 +26,10 @@ Completar! Longer description explaining the rationale/intent behind the project
     - Robo automotor.
     - Hurto total.
     - Hurto automotor.
-- [Planilla de relevamiento](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga).
+- [Planilla de carga](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga).
+    - Exportar marcadores
+    - Relevamiento de alquileres
+        - Opcional: Carga de datos automatica
 
 ### Desarrollado con
 
