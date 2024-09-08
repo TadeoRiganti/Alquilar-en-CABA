@@ -34,7 +34,7 @@ En esta primera versión, las capas de mapa **disponibles** son:
 Esta planilla **transforma tu lista** de alquileres relevados a una capa de mapa con todas las ubicaciones.
 A diferencia de la carga manual, se genera automaticamente una **descripcion con datos clave**, que aparece como una ventana flotante al hacer click en cualquier marcador.
 
-<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/Infografia-planilla-mapa.png">
+<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-planilla-mapa.png">
 
 En esta primera versión, se muestran los siguientes datos:
 - **Datos clave:**
