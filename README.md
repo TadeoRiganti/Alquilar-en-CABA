@@ -14,51 +14,42 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
 
 ### Funcionalidades
 
+#### Mapa interactivo
+
+##### Capas de mapa
+
 Es como el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/), pero si puedieras elegir ver al mismo tiempo aquellos datos que te importan.
 En esta primera versión, las capas de mapa disponibles son:
-  - Urbanismo:
+  - **Urbanismo:**
     - Comunas y barrios.
     - Villas y asentamientos informales.
       
-  - Movilidad:
+  - **Movilidad:**
     - Estaciones de SUBTE.
     - Estaciones de Ferrocarril.
       
-  - Estadisticas de Delito:
+  - **Estadisticas de Delito:**
     - Robo total.
     - Robo automotor.
     - Hurto total.
     - Hurto automotor.
 
+##### Buscador (nativo)
+Explora el mapa:
+    - Buscador de direcciones.
+    - Crea rutas.
+    - Dibuja areas.
+    - Mide distancias y areas.
+
+Sin embargo, la idea de esta herramienta no es buscar alquileres sino para evaluar los que hayas relevado. 
+En una ciudad tan grande, es facil que esta lista sea larga, en especial sino conoces mucho sobre la ciudad. 
+  
+#### Planilla de carga
+
+Esta planilla transforma tu lista a una capa de mapa con todas las ubicaciones.
+Lo interesante es que, al seleccionar cualquiera de los marcadores del mapa, aparece una ventana flotante con informacion relevante que hayas agregado, como puede ser el precio total del alquiler (precio + expensas), la superficie cubierta, una breve descripcion del inmueble y un enlace a la publicacion.
 
 
-Es una prueba de concepto 
-
-Y es que todo esto esta disponible en la [base de datos](https://data.buenosaires.gob.ar/dataset/) que la ciudad pone a dispocision del publico.
-Esta herramienta toma varios de esos set de datos y los pone a dispocision de las personas "de a pie" en un mapa interactivo personalizable.
-
-En esta etapa inicial no es mas que una humilde prueba de concepto, que mezcla el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/comollego/?lat=-34.620000&lng=-58.440000&zl=12&modo=transporte) con el [mapa del delito](https://mapa.seguridadciudad.gob.ar/) para ayudar con este problema.
-Pero conforme avancen las pruebas de usabilidad y entrevistas, probablemente evolucione de manera diferente. 
-
-### Funcionalidades
-
-- Mapa interactivo.
-- Visualizacion de datos relacionados a CABA:
-  - Urbanismo:
-    - Comunas y barrios.
-    - Villas y asentamientos informales.
-  - Movilidad:
-    - Estaciones de SUBTE.
-    - Estaciones de Ferrocarril.
-  - Estadisticas de Delito:
-    - Robo total.
-    - Robo automotor.
-    - Hurto total.
-    - Hurto automotor.
-- [Planilla de carga](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga):
-    - Exportar marcadores
-    - Relevamiento de alquileres
-        - Opcional; Carga de datos automatica
 
 ### Desarrollado con
 
