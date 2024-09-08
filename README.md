@@ -56,15 +56,19 @@ Completar! Agregar GIFS!
 
 Completar!
 
-## Back matter (???)
+## Back matter
 
 ### Aviso legal
 
-El uso indebido de esta herramienta para atacar objetivos es ilegal. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables. Los desarrolladores no asumen ninguna responsabilidad y no son responsables de ningún mal uso o daño causado por este programa.
+El modulo de extraccion de datos debe ser usado solo en aquellos sitios que permitan este tipo de acciones: 
+Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables.
+Porque nadie lee estas cosas, esta separado por defecto. El usuario debe conectar el modulo de manera manual y aceptar la responsabilidad de uso para activarlo.
+De esta manera, los desarrolladores no asumen ninguna responsabilidad y no son responsables de ningún mal uso o daño causado por esta herramienta.
 
-### Acknowledgements
 
-Gracias a la Ciudad de Buenos Aires por liberar al publico su extensa base de datos. 
+### Reconocimientos
+
+Gracias a la Ciudad Autonoma de Buenos Aires por liberar al publico su extensa base de datos. 
 
 ### Sitios de interes
 
@@ -80,10 +84,14 @@ Gracias a la Ciudad de Buenos Aires por liberar al publico su extensa base de da
 - [x] Crear la pagina de Facebook
 - [ ] Armar la presentación en Behance
 - [x] Armar el repositorio de github
-- [ ] Completar el documento README.md
-- [ ] Agregar guias de uso / normas de colaboracion
-- [ ] Agregar la documentacion tecnica
-- [ ] Subir el script de python
+- [x] Armar el documento README.md
+- [ ] Completar la seccion "Descripcion"
+- [ ] Completar la seccion "Como empezar"
+- [x] Armar la wiki del proyecto
+- [x] Agregar documentacion tecnica
+- [x] Subir el script de python
+- [ ] Armar la pagina guia de uso "Procesamiento de datos"
+- [ ] Armar la pagina guia de uso "Normas de colaboracion"
 - [ ] Publicar en Behance
 - [ ] Publicar en Linkedin
 
