@@ -38,10 +38,11 @@ En esta primera versión, las capas de mapa **disponibles** son:
 #### Planilla de carga
 
 Esta planilla **transforma tu lista** de alquileres relevados a una capa de mapa con todas las ubicaciones.
+A diferencia de la carga manual, se genera automaticamente una **descripcion con datos clave**, que aparece como una ventana flotante al hacer click en cualquier marcador.
 
 <img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/Infografia-planilla-mapa.png?raw=true">
 
-A diferencia de la carga manual, se genera automaticamente una **descripcion con datos clave**, que aparece como una ventana flotante al hacer click en cualquier marcador.
+En esta primera versión, la descripción no se puede configurar y muestra los siguientes datos:
 - **Datos clave:**
     - Precio total
     - Superficie cubierta
@@ -56,7 +57,8 @@ A diferencia de la carga manual, se genera automaticamente una **descripcion con
 
 Opcionalmente, podés elegir **automatizar el seguimiento** de las publicaciones de alquileres, **actualizando los datos en tiempo real** para que siempre tengas la información correcta.
 
-
+Como utiliza funciones de extracción de datos web, por defecto esta funcionalidd esta desconectada de la planilla. 
+Si queres saber porque esta desarrollado asi, te invito a leer el [articulo de la wiki](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos) donde se explica a fondo. 
 
 ### Desarrollado con
 
