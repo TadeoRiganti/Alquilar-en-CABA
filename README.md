@@ -9,6 +9,16 @@ Este repositorio contiene todos los documentos con los cuales esta herramienta f
 
 ## Descripción
 
+La Ciudad Autonona de Buenos Aires es grande. Tanto asi que se divide en 15 "comunas" (que es algo asi como los partidos de las provincias) y posee alrededor de 48 barrios oficiales.
+Esta herramienta esta pensada como una referencia mas (a las recomendaciones de conocidos, a los blogs, a las publicaciones en foros), con la diferencia que permite visualizar datos que sean de nuestro interes y que puedan ayudar a evaluar donde conviene alquilar en CABA:
+
+Desde cuestiones basicas como la movilidad (Estaciones de SUBTE cercanas, ferrocarril, paradas de colectivo, de taxis), hasta estadisticas del delito de la zona e incluso si cerca del inmueble hay un bar, un boliche, una bicicleteria hasta incluso una lavanderia. 
+
+Y es que todo esto esta disponible en la base de datos que la ciudad pone a dispocision del publico.
+Y esta herramienta lo grafica en un mapa interactivo personalizable.
+Es algo asi como el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/comollego/?lat=-34.620000&lng=-58.440000&zl=12&modo=transporte), pero con esteroides.
+
+
 Completar! Longer description explaining the rationale/intent behind the project, what it's good for, and how it works. If the next two subsections are short enough, they can be merged up into this block—perhaps as bulleted lists.
 
 ### Funcionalidades
@@ -26,10 +36,10 @@ Completar! Longer description explaining the rationale/intent behind the project
     - Robo automotor.
     - Hurto total.
     - Hurto automotor.
-- [Planilla de carga](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga).
+- [Planilla de carga](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga):
     - Exportar marcadores
     - Relevamiento de alquileres
-        - Opcional: Carga de datos automatica
+        - Opcional; Carga de datos automatica
 
 ### Desarrollado con
 
