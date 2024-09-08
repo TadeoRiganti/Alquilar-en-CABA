@@ -1,11 +1,7 @@
 # Alquilar-en-CABA
 Este repositorio contiene todos los documentos con los cuales esta herramienta fue desarrollada. Incluye la documentación técnica, scripts utilizados para el procesamiento de datos y guias de uso, (por si alguien quiere contribuir con el proyecto).
 
-<div align="center">
-  <kbd>
-    <img src="https://raw.githubusercontent.com/TadeoRiganti/Alquilar-en-CABA/main/kit-de-prensa/gh-banner-readme.png" />
-  </kbd>
-</div>
+<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/gh-banner-readme.png">
 
 ## Descripción
 
