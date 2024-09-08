@@ -8,10 +8,6 @@ Este repositorio contiene todos los documentos con los cuales esta herramienta f
 Capital federal es una ciudad **enorme** y mudarse a este destino puede ser todo un desafio. 
 Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decisión informada**, basada en [**datos reales**]((https://data.buenosaires.gob.ar/dataset/)) sobre transporte, seguridad, servicios y puntos de interés.
 
-## Tabla de contenidos
-
-[[_TOC_]]
-
 ### Funcionalidades
 
 #### Capas de mapa:
