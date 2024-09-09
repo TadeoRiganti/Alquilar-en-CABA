@@ -122,7 +122,8 @@ De esta manera, los desarrolladores no asumen ninguna responsabilidad y no son r
 
 ### Reconocimientos
 
-Gracias a la Ciudad Autonoma de Buenos Aires por liberar al publico su extensa base de datos. 
+* Gracias a la Ciudad Autonoma de Buenos Aires por liberar al publico su extensa base de datos. 
+* Gracias a [Jimmy](https://gis.stackexchange.com/users/214905/jimmy) por [preguntar](https://gis.stackexchange.com/questions/444963/how-to-convert-wkt-polygons-to-kml-file-using-python) y a [Shawn](https://gis.stackexchange.com/users/96775/shawn) por responder con un script para realizar la conversión.
 
 ### Sitios de interes
 
