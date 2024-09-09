@@ -66,7 +66,7 @@ Como esta funcionalidad **extrae datos directamente de sitios web**, esta opció
 
 ### Prerrequisitos
 
-Como esta desarrollado con productos de Google, solo necesitas tener una cuenta de Google.
+Nada más que tener una cuenta de Google.
 
 ### Enlaces
 
@@ -78,9 +78,8 @@ Como esta desarrollado con productos de Google, solo necesitas tener una cuenta 
 
 ## Como colaborar
 
-Para esta primera version, solamente utilice 7 set de datos de los 433 disponibles en [BA DATA](https://data.buenosaires.gob.ar/).
-Si queres armar una capa de dato que no existe, pero no sabes como hacerlo, te dejo la guia con la tecnica que use yo.
 Y si queres colaborar, tambien podes! De hecho, la idea es que este producto crezca gracias a la comunidad.
+Si queres armar una capa de mapa basada con los set de datos de [BA DATA](https://data.buenosaires.gob.ar/), pero no sabes como hacerlo, te dejo la guia con la tecnica que use yo.
 
 ### Prerrequisitos
 
