@@ -80,6 +80,7 @@ Como esta desarrollado con productos de Google, solo necesitas tener una cuenta 
 - [**Planilla de carga**](https://docs.google.com/spreadsheets/d/1n8KmH8Q9s2Fp96RFHQW84AAExconjnvSWJ40BhUe-6I/copy)
 - [**Modulo Extracción de datos**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Guia-de-instalacion-%E2%80%90-Seguimiento-automatico)
 
+<br> 
 
 ## Como colaborar
 
@@ -107,6 +108,8 @@ Completar! Agregar GIFS!
 
 Completar!
 
+<br> 
+
 ## Back matter
 
 ### Aviso legal
@@ -133,17 +136,27 @@ Gracias a la Ciudad Autonoma de Buenos Aires por liberar al publico su extensa b
 
 - [x] Publicar el avance del proyecto
 - [x] Crear la pagina de Facebook
-- [ ] Armar la presentación en Behance
+- [x] Armar la presentación en Behance
+    - [x] Esquematizar presentacion
+    - [x] Armar infografias
+    - [ ] Armar paginas de la presentacion
+    - [ ] Publicar en Behance
 - [x] Armar el repositorio de github
-- [x] Armar el documento README.md
-- [ ] Completar la seccion "Descripcion"
-- [ ] Completar la seccion "Como empezar"
-- [x] Armar la wiki del proyecto
-- [x] Agregar documentacion tecnica
-- [x] Subir el script de python
-- [ ] Armar la pagina guia de uso "Procesamiento de datos"
-- [ ] Armar la pagina guia de uso "Normas de colaboracion"
-- [ ] Publicar en Behance
+    - [x] Armar el documento README.md
+        - [x] Completar la seccion "Descripcion"
+        - [x] Completar la seccion "Consegui tu copia!"
+        - [ ] Completar la seccion "Como colaborar"
+    - [x] Armar la wiki del proyecto
+        - [x] Agregar documentacion tecnica
+        - [x] Subir el script de python
+        - [x] Armar la pagina guia de uso "Procesamiento de datos"
+        - [x] Armar tutorial para conseguir una copia
+        - [ ] Armar guia para "Agregar capas de mapa"
+        - [ ] Armar guia para "Armar capas de mapa"
+        - [ ] Armar guia para "Procesar set de datos de BA DATA"
+        - [ ] Armar glosario "Coloquio tecnico"
+        - [ ] Armar glosario "Librerias utilizadas"
+        - [ ] Armar la pagina guia de uso "Normas de colaboracion"
 - [ ] Publicar en Linkedin
 
 ### Licencia
