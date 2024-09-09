@@ -10,15 +10,6 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
 
 ### Funcionalidades
 
-<details>
-       <summary>#### Capas de mapa</summary>
-
-        ### Heading
-        1. ABC
-        2. DEF
-           * Hello
-</details>
-
 #### Capas de mapa
 
 Es como el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/), pero con la posibilidad de elegir ver lo que te importa **al mismo tiempo**.
@@ -46,15 +37,6 @@ A diferencia de la carga manual, se genera automaticamente una **descripcion con
 
 <img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-planilla-mapa.png">
 
-En esta primera versión, se muestran los siguientes datos:
-- **Datos clave:**
-    - Precio total
-    - Superficie cubierta
-    - Precio /m2
-- **Descripción breve**
-- **Enlace a la publicación**
-
-
 <br>
 
 #### Seguimiento automatico
@@ -63,9 +45,7 @@ Opcionalmente, podés elegir **automatizar el seguimiento** de las publicaciones
 <br><br>
 <img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Cliparts/gif-carga-automatica.gif">
 <br><br>
-Como utiliza funciones de **extracción de datos web**, por defecto **esta funcionalidad esta desconectada** de la planilla. 
-En la wiki, esta la [guía de uso para conectar el modulo](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Activar-el-seguimiento-automatico) que tambien goza de la misma licencia.
-Si queres saber porque esta desarrollado asi, te invito a leer el [articulo de la wiki](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos) donde se **explica la cuestión** a fondo. 
+Como utiliza funciones de **extracción de datos web**, por [varias razones](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos) esta funcionalidad esta **separada** de la planilla (igual en la wiki esta la [guía de uso para conectar el modulo](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Activar-el-seguimiento-automatico).
 
 <br>
 
