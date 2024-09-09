@@ -10,14 +10,10 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
 
 ### Funcionalidades
 
-   <details>
-       <summary>Toggle List Example</summary>
-
-        ### Heading
-        1. ABC
-        2. DEF
-           * Hello
-    </details>
+ <details>
+    kldsklfdskldsf
+    1. dsfdsdsf
+ </details>details>
 
 #### Capas de mapa
 
