@@ -10,6 +10,15 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
 
 ### Funcionalidades
 
+   <details>
+       <summary>Toggle List Example</summary>
+
+        ### Heading
+        1. ABC
+        2. DEF
+           * Hello
+    </details>
+
 #### Capas de mapa
 
 Es como el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/), pero con la posibilidad de elegir ver lo que te importa **al mismo tiempo**.
