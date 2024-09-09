@@ -28,7 +28,7 @@ En esta primera versión, las capas de mapa **disponibles** son:
     - Hurto total.
     - Hurto automotor.
 
-<br><br>  
+<br> 
 #### Planilla de carga
 
 Esta planilla **transforma tu lista** de alquileres relevados a una capa de mapa con todas las ubicaciones.
@@ -45,7 +45,7 @@ En esta primera versión, se muestran los siguientes datos:
 - **Enlace a la publicación**
 
 
-<br><br>
+<br>
 #### Seguimiento automatico
 
 Opcionalmente, podés elegir **automatizar el seguimiento** de las publicaciones de alquileres, **actualizando los datos en tiempo real** para que siempre tengas la información correcta.
