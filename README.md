@@ -43,10 +43,14 @@ A diferencia de la carga manual, se genera automaticamente una **descripcion con
 #### Seguimiento automatico
 
 Opcionalmente, podés elegir **automatizar el seguimiento** de las publicaciones de alquileres, **actualizando los datos en tiempo real** para que siempre tengas la información correcta.
-<br><br>
+
+<br>
+
 <img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Cliparts/gif-carga-automatica.gif">
-<br><br>
-Como utiliza funciones de **extracción de datos web**, por [varias razones](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos) esta funcionalidad esta **separada** de la planilla (igual en la wiki esta la [guía de uso para conectar el modulo](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Activar-el-seguimiento-automatico).
+
+<br>
+
+Como esta funcionalidad **extrae datos directamente de sitios web**, esta opción está [**desactivada por defecto**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos) en la hoja de cálculo (en la wiki esta la [guía de uso para conectar el modulo](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Activar-el-seguimiento-automatico).
 
 <br>
 
