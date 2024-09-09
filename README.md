@@ -55,7 +55,7 @@ Opcionalmente, podés elegir **automatizar el seguimiento** de las publicaciones
 <img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Cliparts/gif-carga-automatica.gif">
 <br><br>
 Como utiliza funciones de **extracción de datos web**, por defecto **esta funcionalidad esta desconectada** de la planilla. 
-En la wiki, esta la (guía de uso para conectar el modulo)[https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Activar-el-seguimiento-automatico] que tambien goza de la misma licencia.
+En la wiki, esta la [guía de uso para conectar el modulo](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Activar-el-seguimiento-automatico) que tambien goza de la misma licencia.
 Si queres saber porque esta desarrollado asi, te invito a leer el [articulo de la wiki](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos) donde se **explica la cuestión** a fondo. 
 
 <br>
