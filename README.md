@@ -29,6 +29,7 @@ En esta primera versión, las capas de mapa **disponibles** son:
     - Hurto automotor.
 
 <br> 
+
 #### Planilla de carga
 
 Esta planilla **transforma tu lista** de alquileres relevados a una capa de mapa con todas las ubicaciones.
@@ -46,6 +47,7 @@ En esta primera versión, se muestran los siguientes datos:
 
 
 <br>
+
 #### Seguimiento automatico
 
 Opcionalmente, podés elegir **automatizar el seguimiento** de las publicaciones de alquileres, **actualizando los datos en tiempo real** para que siempre tengas la información correcta.
@@ -55,13 +57,17 @@ Opcionalmente, podés elegir **automatizar el seguimiento** de las publicaciones
 Como utiliza funciones de **extracción de datos web**, por defecto **esta funcionalidad esta desconectada** de la planilla. 
 En la wiki, esta la (guía de uso para conectar el modulo)[#] que tambien goza de la misma licencia.
 Si queres saber porque esta desarrollado asi, te invito a leer el [articulo de la wiki](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos) donde se **explica la cuestión** a fondo. 
-<br><br>
+
+<br>
+
 ### Desarrollado con
 
 - [Google My Maps](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/My-Maps-%E2%80%90-Implementacion)
 - [Google Sheets](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Sheets-%E2%80%90-Implementacion)
 - [Python](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Python-Script-%E2%80%90-Conversi%C3%B3n-CSV%E2%80%90KML)
-<br><br>
+
+<br>
+
 ## Conseguí tu propia copia!
 
 ### Prerrequisitos
