@@ -17,7 +17,7 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
         1. ABC
         2. DEF
            * Hello
-    </details>
+</details>
 
 #### Capas de mapa
 
