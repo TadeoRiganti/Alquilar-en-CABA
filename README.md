@@ -10,10 +10,14 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
 
 ### Funcionalidades
 
- <details>
-    kldsklfdskldsf
-    1. dsfdsdsf
- </details>details>
+<details>
+       <summary>#### Capas de mapa</summary>
+
+        ### Heading
+        1. ABC
+        2. DEF
+           * Hello
+    </details>
 
 #### Capas de mapa
 
