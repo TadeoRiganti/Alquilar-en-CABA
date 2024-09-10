@@ -14,7 +14,7 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
 
 Es como el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/), pero con la posibilidad de elegir ver lo que te importa **al mismo tiempo**.
 
-<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-capas-de-mapa.png" height=1080>
+<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-capas-de-mapa.png" height=640>
 
 En esta primera versión, las capas de mapa **disponibles** son:
   - **Urbanismo:**
