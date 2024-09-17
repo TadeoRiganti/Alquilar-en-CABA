@@ -1,0 +1,967 @@
+Id,NOMBRE,NOM_MAP,TIPO_ASENT,MANZANA,OBSERV,ALIAS,NOM_y_MZA,Superficie,Brio_inter
+1,Asentamiento San Pablo,Asent. San Pablo,Asentamientos precarios,,"Santander Nº 5.953/6.007, entre la Av. Argentina y la calle Lisandro de la Torre",,Asentamiento San Pablo,18977.051,
+2,Conjunto Habitacional Luzuriaga 837,CH Luzuriaga 837,Conjunto Habitacional,,Luzuriaga 837,,Conjunto Habitacional Luzuriaga 837,4868.412,
+3,Asentamiento Matanza y Ferré,Asent. Matanza y Ferré,Asentamientos precarios,,Matanza y Ferré,,Asentamiento Matanza y Ferré,2225.129,
+4,Asentamiento Don Pedro de Mendoza y Villarino,Asent. Don Pedro de Mendoza y Villarino,Asentamientos precarios,,Don Pedro de Mendoza y Villarino,,Asentamiento Don Pedro de Mendoza y Villarino,2134.229,
+5,Conjunto Habitacional San Antonio 721,CH San Antonio 721,Conjunto Habitacional,,,,Conjunto Habitacional San Antonio 721,2351.166,
+6,Conjunto Habitacional Lacarra 2049,CH Lacarra 2049,Conjunto Habitacional,,,,Conjunto Habitacional Lacarra 2049,3420.090,
+7,Asentamiento Hubac 4744,Asent. Hubac,Asentamientos precarios,,,,Asentamiento Hubac 4744,9064.641,
+8,Conjunto Habitacional Valparaíso/Veracruz 3459,CH Valparaíso/Veracruz 3459,Conjunto Habitacional,,,,Conjunto Habitacional Valparaíso/Veracruz 3459,7372.028,
+9,Conjunto Habitacional Osvaldo Cruz y Luna,CH Osvaldo Cruz y Luna,Conjunto Habitacional,,,,Conjunto Habitacional Osvaldo Cruz y Luna,4701.568,
+10,Asentamiento Los Arcos,Asent. Los Arcos,Asentamientos precarios,,,,Asentamiento Los Arcos,27505.191,
+11,Conjunto Habitacional La Lechería,CH La Lechería,Conjunto Habitacional,,,,Conjunto Habitacional La Lechería,782.957,
+12,Asentamiento Chascomús 4400,Asent. Chascomús 4400,Asentamientos precarios,,Chascomús 4400/4454,,Asentamiento Chascomús 4400,1044.707,
+13,Villa 26,Villa 26,Villas,,Este sector figuraba como el Anexo Villa 26 pero fue el único sector de Villa que quedó. Lo otro se elliminó por el Camino de Sirga,Anexo Villa 26,Villa 26,3871.335,
+14,Asentamiento El Campito,Asent. El Campito,Asentamientos precarios,,,,Asentamiento El Campito,4636.595,
+15,Conjunto Habitacional San Francisco,CH San Francisco,Conjunto Habitacional,,,,Conjunto Habitacional San Francisco,30670.927,
+16,Complejo Habitacional U7,CH U7,Conjunto Habitacional,,,,Complejo Habitacional U7,7010.658,
+17,Conjunto Habitacional Barrio N. Kirchner,CH Bo. N. Kirchner,Conjunto Habitacional,,,,Conjunto Habitacional Barrio N. Kirchner,8128.756,
+18,Conjunto Habitacional Lacarra y Cruz,CH Lacarra y Cruz,Conjunto Habitacional,,,,Conjunto Habitacional Lacarra y Cruz,9538.520,
+19,Asentamiento Agustín de Vedia,Asent. Agustín de Vedia,Asentamientos precarios,,,,Asentamiento Agustín de Vedia,1766.139,
+20,Conjunto Habitacional Rivera Luna,CH Rivera Luna,Conjunto Habitacional,,Redigitalización,Conjunto Habitacional Orma,Conjunto Habitacional Rivera Luna,16736.079,
+21,Conjunto Habitacional Ribera Iguazú,CH Ribera Iguazú,Conjunto Habitacional,,,Mundo Grúa,Conjunto Habitacional Ribera Iguazú,18609.937,
+22,Asentamiento Luján,Asent. Luján,Asentamientos precarios,,Diferenciado del Asentamiento de enfrente,,Asentamiento Luján,6331.032,
+23,Complejo Habitacional Zavaleta,CH Zavaleta,Conjunto Habitacional,,,Zavaleta,Complejo Habitacional Zavaleta,22380.977,
+24,Conjunto Habitacional Sector Bonorino ex Villa 1-11-14,CH Sector Bonorino,Conjunto Habitacional,,Complejo de Edificios linderos a Villa 1-11-14,,Conjunto Habitacional Sector Bonorino ex Villa 1-11-14,13940.285,
+25,Barrio Rivadavia II,Bo. Rivadavia II,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14. EN Mayo de 2020 se separó el sector de la esquina de Av Riestra y Torres y Tenorio ya que es considerado Manzana 48 de la Villa 1-11-14 Ricciardelli,,Barrio Rivadavia II,21686.378,
+26,Colonia Solá,Bo. Colonia Solá,Barrios municipales,,Barrio de casas y complejos de viviendas con relativa deficiencia habitacional,,Colonia Solá,7089.239,
+27,Complejo Habitacional 26 de junio (ex 33 viviendas),CH 26 de junio (ex 33 viviendas),Conjunto Habitacional,,Barrio humilde de construcciones precarias  y de casas bajas - Redigitalizado por USIG en Junio de 2016 (agregado de parte posterior a Av Riestra),,Complejo Habitacional 26 de junio (ex 33 viviendas),5226.193,
+28,Conjunto Habitacional Padre Mugica,CH Padre Mugica,Conjunto Habitacional,,,,Conjunto Habitacional Padre Mugica,43521.197,
+29,Asentamiento La Veredita,Asent. La Veredita,Asentamientos precarios,,"Antes se llamaba Portela, luego se denominó La Veredita",Portela,Asentamiento La Veredita,4396.722,
+30,Asentamiento San Cayetano,Asent. San Cayetano,Asentamientos precarios,,,,Asentamiento San Cayetano,2175.037,
+31,Conj. Habitacional Pepirí y Taborda,CH Pepirí y Taborda,Conjunto Habitacional,,,,Conj. Habitacional Pepirí y Taborda,7616.567,
+32,Conj. Hab. Orma y Magaldi,CH Orma y Magaldi,Conjunto Habitacional,,,,Conj. Hab. Orma y Magaldi,15629.045,
+33,Asentamiento Bermejo,Asent. Bermejo,Asentamientos precarios,,Antes poseía el dato de manzana 941 pero se eliminó.,,Asentamiento Bermejo,17750.896,
+34,Asentamiento La Doña y El Buen Samaritano,Asent. La Doña y El Buen Samaritano,Asentamientos precarios,,Lacarra 2000 y Galponeros,,Asentamiento La Doña y El Buen Samaritano,2170.720,
+35,Asentamiento Varela y Vías del Tren,Asent. Varela y Vías del Tren,Asentamientos precarios,,Varela 3220,,Asentamiento Varela y Vías del Tren,634.923,
+36,Complejo Habitacional Riestra (ex Las Palomas),CH Riestra (ex Las Palomas),Conjunto Habitacional,,Barrio humilde de construcciones precarias  y de casas bajas - Redigitalizado por USIG en Junio de 2016 (agregado de parte posterior a Av Riestra),,Complejo Habitacional Riestra (ex Las Palomas),3503.490,
+37,Asentamiento Biarritz y Espinosa,Asent. Biarritz y Espinosa,Asentamientos precarios,1,,,Asentamiento Biarritz y Espino - 1,2090.060,
+38,Asentamiento Biarritz y Espinosa,Asent. Biarritz y Espinosa,Asentamientos precarios,2,,,Asentamiento Biarritz y Espino - 2,1006.581,
+39,Asentamiento Calle Bartolomé Mitre,Asent. Calle Bartolomé Mitre,Asentamientos precarios,,,,Asentamiento Calle Bartolomé Mitre,2130.544,
+40,Asentamiento Charlone,Asent. Charlone,Asentamientos precarios,,,,Asentamiento Charlone,806.461,
+41,Asentamiento Lamadrid,Asent. Lamadrid,Asentamientos precarios,1,"Antes se llamaba El Triángulo. Se unificó todo en Asentamiento Lamadrid: Lamadrid, El Triángulo y Suárez y Pedro de Mendoza (mza del Norte)",Asentamiento El Triángulo Manzana 1,Asentamiento Lamadrid - 1,3849.025,
+42,Asentamiento Lamadrid,Asent. Lamadrid,Asentamientos precarios,2,"Antes se llamaba El Triángulo. Se unificó todo en Asentamiento Lamadrid: Lamadrid, El Triángulo y Suárez y Pedro de Mendoza (mza del Norte)",Asentamiento El Triángulo Manzana 2,Asentamiento Lamadrid - 2,9619.800,
+43,Asentamiento Fraga,Asent. Fraga,Asentamientos precarios,2 - Sector B,,Playón Chacarita - Barrio Fraga,Asentamiento Fraga - 2 - Sector B,3772.669,
+44,Asentamiento Fraga,Asent. Fraga,Asentamientos precarios,1 - Sector A,,Playón Chacarita - Barrio Fraga,Asentamiento Fraga - 1 - Sector A,7000.805,
+45,Asentamiento Fraga,Asent. Fraga,Asentamientos precarios,3 - Sector C,,Playón Chacarita - Barrio Fraga,Asentamiento Fraga - 3 - Sector C,4720.256,
+46,Asentamiento Fraga,Asent. Fraga,Asentamientos precarios,5 - Sector G,,Playón Chacarita - Barrio Fraga,Asentamiento Fraga - 5 - Sector G,881.724,
+47,Asentamiento Fraga,Asent. Fraga,Asentamientos precarios,6 - Sector E,,Playón Chacarita - Barrio Fraga,Asentamiento Fraga - 6 - Sector E,1127.320,
+48,Asentamiento Fraga,Asent. Fraga,Asentamientos precarios,4 - Sector F,,Playón Chacarita - Barrio Fraga,Asentamiento Fraga - 4 - Sector F,2945.841,
+49,Asentamiento Fraga,Asent. Fraga,Asentamientos precarios,7 - Sector D,,Playón Chacarita - Barrio Fraga,Asentamiento Fraga - 7 - Sector D,1806.513,
+50,Asentamiento La Carbonilla,Asent. La Carbonilla,Asentamientos precarios,949,,,Asentamiento La Carbonilla - 949,18943.538,
+51,Asentamiento Lamadrid,Asent. Lamadrid,Asentamientos precarios,938,,,Asentamiento Lamadrid - 938,2657.752,
+52,Asentamiento Magaldi,Asent. Magaldi,Asentamientos precarios,Fábrica Tomada,Redigitalización en Abril 2020. Se eliminaron algunos sectores linderos sobre el Camino de Sirga,,Asentamiento Magaldi - Fábrica Tomada,3009.941,
+53,Asentamiento María Auxiliadora,Asent. María Auxiliadora,Asentamientos precarios,1,,,Asentamiento María Auxiliadora - 1,2552.866,
+54,Asentamiento María Auxiliadora,Asent. María Auxiliadora,Asentamientos precarios,2,,,Asentamiento María Auxiliadora - 2,2295.890,
+55,Asentamiento Paredón Lacroze,Asent. Paredón Lacroze,Asentamientos precarios,,,Asentamiento Paredón Lacroze - Fraga - Chacarita - Playón Urquiza,Asentamiento Paredón Lacroze,3651.793,
+56,Asentamiento Saldías,Asent. Saldías,Asentamientos precarios,928,,,Asentamiento Saldías - 928,11589.559,
+57,Asentamiento Saldías,Asent. Saldías,Asentamientos precarios,929,,,Asentamiento Saldías - 929,3311.231,
+58,Asentamiento Saldías,Asent. Saldías,Asentamientos precarios,929,,,Asentamiento Saldías - 929,3032.291,
+59,Asentamiento Saldías,Asent. Saldías,Asentamientos precarios,929,,,Asentamiento Saldías - 929,428.294,
+60,Asentamiento Saldías,Asent. Saldías,Asentamientos precarios,929,,,Asentamiento Saldías - 929,428.288,
+61,Asentamiento Scapino,Asent. Scapino,Asentamientos precarios,2,,,Asentamiento Scapino - 2,3065.979,
+62,Asentamiento Scapino,Asent. Scapino,Asentamientos precarios,3,,,Asentamiento Scapino - 3,2959.621,
+63,Asentamiento Scapino,Asent. Scapino,Asentamientos precarios,4,,,Asentamiento Scapino - 4,2238.060,
+64,Asentamiento Scapino,Asent. Scapino,Asentamientos precarios,1,,,Asentamiento Scapino - 1,665.407,
+65,Asentamiento Warnes y Newbery,Asent. Warnes y Newbery,Asentamientos precarios,,,,Asentamiento Warnes y Newbery,8094.902,
+66,Asentamiento Yerbal,Asent. Yerbal,Asentamientos precarios,,,,Asentamiento Yerbal,3532.585,
+67,Asentamiento Rodrigo Bueno,Asent. Rodrigo Bueno,Asentamientos precarios,1,,,Asentamiento Rodrigo Bueno - 1,3985.161,
+68,Asentamiento Rodrigo Bueno,Asent. Rodrigo Bueno,Asentamientos precarios,3,,,Asentamiento Rodrigo Bueno - 3,8928.246,
+69,Asentamiento Rodrigo Bueno,Asent. Rodrigo Bueno,Asentamientos precarios,2,,,Asentamiento Rodrigo Bueno - 2,3634.963,
+70,Asentamiento Rodrigo Bueno,Asent. Rodrigo Bueno,Asentamientos precarios,4,,,Asentamiento Rodrigo Bueno - 4,4293.244,
+71,Asentamiento Los Pinos,Asent. Los Pinos,Asentamientos precarios,1,,,Asentamiento Los Pinos - 1,977.260,
+72,Asentamiento Los Pinos,Asent. Los Pinos,Asentamientos precarios,2,,,Asentamiento Los Pinos - 2,2596.972,
+73,Asentamiento Los Pinos,Asent. Los Pinos,Asentamientos precarios,3,,,Asentamiento Los Pinos - 3,1753.790,
+74,Asentamiento Los Pinos,Asent. Los Pinos,Asentamientos precarios,4,,,Asentamiento Los Pinos - 4,2437.023,
+75,Asentamiento Los Pinos,Asent. Los Pinos,Asentamientos precarios,5,,,Asentamiento Los Pinos - 5,1612.443,
+76,Asentamiento Barrio Obrero,Asent. Barrio Obrero,Asentamientos precarios,,Antes figuraba la Manzana como 943. Se quitó porque era la única,,Asentamiento Barrio Obrero,783.010,
+77,Asentamiento La Carbonilla,Asent. La Carbonilla,Asentamientos precarios,,Sector del Asentamiento La Carbonilla agregado por USIG en 2016. Confirmado por Imagen Satelital 2015 y por pedido de personal del Hospital Tornú.,,Asentamiento La Carbonilla,34326.854,
+78,Asentamiento Hubac,Asent. Hubac,Asentamientos precarios,6 Bis,,,Asentamiento Hubac - 6 Bis,3877.457,
+79,Asentamiento La Esperanza,Asent. La Esperanza,Asentamientos precarios,,,,Asentamiento La Esperanza,9023.865,
+80,Complejo de Edificios Const. Almagro (Rodriguez y Blanes),Cmjo. Const. Almagro - Rodriguez y Blanes,Barrios municipales,,,,Complejo de Edificios Const. Almagro (Rodriguez y Blanes),13569.198,
+81,Complejo de Edificios Vuelta de Rocha,Cmjo. Vuelta de Rocha,Barrios municipales,,Complejo de Edificios,,Complejo de Edificios Vuelta de Rocha,16745.103,
+82,Complejo Versalles (Santo Tomé y Porcel de Peralta),Cmjo. Versalles (Santo Tomé y Porcel de Peralta),Barrios municipales,,Complejos de Edificaciones y casas ya incorporadas al entramado urbano,,Complejo Versalles (Santo Tomé y Porcel de Peralta),5054.800,
+83,Torres de Brasil y Matheu,Torres de Brasil y Matheu,Barrios municipales,,,,Torres de Brasil y Matheu,14111.244,
+84,Torres de Abasto,Torres de Abasto,Barrios municipales,,,,Torres de Abasto,10669.321,
+85,Barrio Soldati,Bo. Soldati,Barrios municipales,,,,Barrio Soldati,14398.402,
+86,Barrio Soldati,Bo. Soldati,Barrios municipales,,,,Barrio Soldati,22859.328,
+87,Barrio Soldati,Bo. Soldati,Barrios municipales,,,,Barrio Soldati,22430.906,
+88,Barrio Soldati,Bo. Soldati,Barrios municipales,,,,Barrio Soldati,15668.887,
+89,Barrio Soldati,Bo. Soldati,Barrios municipales,,,,Barrio Soldati,18644.948,
+90,Barrio Soldati,Bo. Soldati,Barrios municipales,,,,Barrio Soldati,10207.803,
+91,Barrio Soldati,Bo. Soldati,Barrios municipales,,,,Barrio Soldati,44049.960,
+92,Barrio Soldati,Bo. Soldati,Barrios municipales,,,,Barrio Soldati,17338.419,
+93,Barrio Soldati,Bo. Soldati,Barrios municipales,,,,Barrio Soldati,25532.755,
+94,Barrio Soldati,Bo. Soldati,Barrios municipales,,,,Barrio Soldati,9193.611,
+95,Barrio Simón Bolívar,Bo. Simón Bolívar,Barrios municipales,,,,Barrio Simón Bolívar,20143.037,
+96,Barrio Simón Bolívar,Bo. Simón Bolívar,Barrios municipales,,,,Barrio Simón Bolívar,21819.702,
+97,Conjunto Habitacional Barrio Polideportivo ex Villa 1-11-14,CH Bo. Polideportivo (ex Villa 1-11-14),Conjunto Habitacional,,Complejos de viviendas linderos a la Villa 1-11-14. Mayor urbanización en su estructura,Polideportivo ex Villa 1-11-14 - Barrio Padre Ricciardelli,Conjunto Habitacional Barrio Polideportivo ex Villa 1-11-14,12057.433,
+98,Conjunto Habitacional Barrio Polideportivo ex Villa 1-11-14,CH Bo. Polideportivo (ex Villa 1-11-14),Conjunto Habitacional,,Complejos de viviendas linderos a la Villa 1-11-14. Mayor urbanización en su estructura,Polideportivo ex Villa 1-11-14 - Barrio Padre Ricciardelli,Conjunto Habitacional Barrio Polideportivo ex Villa 1-11-14,2066.361,
+99,Conjunto Habitacional Barrio Polideportivo ex Villa 1-11-14,CH Bo. Polideportivo (ex Villa 1-11-14),Conjunto Habitacional,,Complejos de viviendas linderos a la Villa 1-11-14. Mayor urbanización en su estructura,Polideportivo ex Villa 1-11-14 - Barrio Padre Ricciardelli,Conjunto Habitacional Barrio Polideportivo ex Villa 1-11-14,16078.924,
+100,Sector Bonorino ex Villa 1-11-14,Sector Bonorino ex Villa 1-11-14,Barrios municipales,,Complejo de Edificios linderos a Villa 1-11-14,,Sector Bonorino ex Villa 1-11-14,13940.285,
+101,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2123.527,
+102,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2741.068,
+103,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2137.874,
+104,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2762.050,
+105,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2146.804,
+106,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2174.701,
+107,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2709.063,
+108,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2339.084,
+109,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2727.110,
+110,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,875.268,
+111,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2135.820,
+112,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2752.933,
+113,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2157.711,
+114,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2136.623,
+115,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2713.704,
+116,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2123.310,
+117,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2145.710,
+118,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2713.625,
+119,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2131.851,
+120,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2727.274,
+121,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,1874.905,
+122,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,6397.550,
+123,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,5322.209,
+124,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,6528.449,
+125,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,1626.283,
+126,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,7332.887,
+127,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,464.349,
+128,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2123.755,
+129,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2156.007,
+130,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,1979.594,
+131,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,1252.609,
+132,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2138.368,
+133,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2123.293,
+134,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,908.393,
+135,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2126.393,
+136,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2686.636,
+137,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2129.601,
+138,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,647.385,
+139,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,896.219,
+140,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,991.934,
+141,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,1224.213,
+142,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,1401.179,
+143,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,1636.289,
+144,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2734.025,
+145,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,1253.674,
+146,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2304.533,
+147,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2696.945,
+148,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2144.596,
+149,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2719.850,
+150,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2702.396,
+151,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2695.859,
+152,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2154.912,
+153,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2374.401,
+154,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,553.713,
+155,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,21.263,
+156,Barrio Rivadavia I,Bo. Rivadavia I,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 1-11-14,,Barrio Rivadavia I,2243.660,
+157,Barrio Rawson,Bo. Rawson,Barrios municipales,,Barrio de casas y viviendas con una misma estructura pero sin deficiencias habitacionales,,Barrio Rawson,4234.798,
+158,Barrio Rawson,Bo. Rawson,Barrios municipales,,Barrio de casas y viviendas con una misma estructura pero sin deficiencias habitacionales,,Barrio Rawson,1237.044,
+159,Barrio Rawson,Bo. Rawson,Barrios municipales,,Barrio de casas y viviendas con una misma estructura pero sin deficiencias habitacionales,,Barrio Rawson,4865.902,
+160,Barrio Rawson,Bo. Rawson,Barrios municipales,,Barrio de casas y viviendas con una misma estructura pero sin deficiencias habitacionales,,Barrio Rawson,2379.294,
+161,Barrio Rawson,Bo. Rawson,Barrios municipales,,Barrio de casas y viviendas con una misma estructura pero sin deficiencias habitacionales,,Barrio Rawson,2112.950,
+162,Barrio Rawson,Bo. Rawson,Barrios municipales,,Barrio de casas y viviendas con una misma estructura pero sin deficiencias habitacionales,,Barrio Rawson,11362.077,
+163,Barrio Rawson,Bo. Rawson,Barrios municipales,,Barrio de casas y viviendas con una misma estructura pero sin deficiencias habitacionales,,Barrio Rawson,3489.570,
+164,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2407.340,
+165,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,3219.111,
+166,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,3208.064,
+167,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2403.828,
+168,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,5635.372,
+169,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,3194.263,
+170,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2402.795,
+171,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,3200.920,
+172,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,3203.493,
+173,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2380.904,
+174,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,5621.072,
+175,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,3197.399,
+176,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2414.318,
+177,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,3219.089,
+178,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2016.725,
+179,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,15359.008,
+180,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2401.965,
+181,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2809.147,
+182,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,4804.118,
+183,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2398.062,
+184,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,3199.545,
+185,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2407.010,
+186,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,4815.533,
+187,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,3208.970,
+188,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,4814.352,
+189,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,2408.447,
+190,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,3202.839,
+191,Barrio Parque Almirante Brown,Bo. Pque. Alte. Brown,Barrios municipales,,,,Barrio Parque Almirante Brown,5581.398,
+192,Complejo de Edificios Plaza Oeste,Cmjo. Plaza Oeste,Barrios municipales,,Complejo de Edificios ya incorporados a la trama urbana,,Complejo de Edificios Plaza Oeste,11549.014,
+193,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,3651.257,
+194,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,2624.152,
+195,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,14862.489,
+196,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,10967.905,
+197,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,16465.832,
+198,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,3531.687,
+199,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,6240.166,
+200,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,4993.831,
+201,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,2661.451,
+202,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,4382.469,
+203,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,6810.585,
+204,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,6105.133,
+205,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,7347.105,
+206,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,7287.779,
+207,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,4381.848,
+208,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,22919.886,
+209,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,12542.321,
+210,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,9876.696,
+211,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,9283.791,
+212,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,53853.260,
+213,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,12314.240,
+214,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,11921.250,
+215,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,12703.550,
+216,Barrio Piedrabuena,Bo. Piedrabuena,Barrios municipales,,,,Barrio Piedrabuena,9286.164,
+217,Complejo de Edificios Pampa,Cmjo. Pampa,Barrios municipales,,Complejos de Edificios ya incorporados en la trama urbana - HABRÍA QUE DEFINIR SI SE SIGUEN MOSTRANDO!!,,Complejo de Edificios Pampa,3392.489,
+218,Complejo de Edificios Pampa,Cmjo. Pampa,Barrios municipales,,Complejos de Edificios ya incorporados en la trama urbana - HABRÍA QUE DEFINIR SI SE SIGUEN MOSTRANDO!!,,Complejo de Edificios Pampa,2978.500,
+219,Complejo de Edificios Pampa,Cmjo. Pampa,Barrios municipales,,Complejos de Edificios ya incorporados en la trama urbana - HABRÍA QUE DEFINIR SI SE SIGUEN MOSTRANDO!!,,Complejo de Edificios Pampa,3319.162,
+220,Complejo de Edificios Pampa,Cmjo. Pampa,Barrios municipales,,Complejos de Edificios ya incorporados en la trama urbana - HABRÍA QUE DEFINIR SI SE SIGUEN MOSTRANDO!!,,Complejo de Edificios Pampa,2148.426,
+221,Barrio Nágera,Bo. Nágera,Barrios municipales,,,,Barrio Nágera,6438.213,
+222,Barrio Nágera,Bo. Nágera,Barrios municipales,,,,Barrio Nágera,1559.696,
+223,Barrio Nágera,Bo. Nágera,Barrios municipales,,,,Barrio Nágera,5274.791,
+224,Barrio Nágera,Bo. Nágera,Barrios municipales,,,,Barrio Nágera,2217.212,
+225,Barrio Nágera,Bo. Nágera,Barrios municipales,,,,Barrio Nágera,3447.332,
+226,Barrio Nágera,Bo. Nágera,Barrios municipales,,,,Barrio Nágera,21793.516,
+227,Barrio Nágera,Bo. Nágera,Barrios municipales,,,,Barrio Nágera,27446.955,
+228,Barrio Nágera,Bo. Nágera,Barrios municipales,,,,Barrio Nágera,11392.910,
+229,Barrio Mitre,Bo. Mitre,Barrios municipales,,,,Barrio Mitre,7065.013,
+230,Barrio Mitre,Bo. Mitre,Barrios municipales,,,,Barrio Mitre,5330.476,
+231,Barrio Mitre,Bo. Mitre,Barrios municipales,,,,Barrio Mitre,5993.941,
+232,Barrio Mitre,Bo. Mitre,Barrios municipales,,,,Barrio Mitre,30984.249,
+233,Barrio Mitre,Bo. Mitre,Barrios municipales,,,,Barrio Mitre,24927.422,
+234,Barrio Mascías,Bo. Mascías,Barrios municipales,,,,Barrio Mascías,13138.488,
+235,Barrio Mascías,Bo. Mascías,Barrios municipales,,,,Barrio Mascías,11946.017,
+236,Barrio Mascías,Bo. Mascías,Barrios municipales,,,,Barrio Mascías,12349.998,
+237,Barrio Marcelo T. de  Alvear,Bo. Marcelo T. de  Alvear,Barrios municipales,,Complejos de Edificios bajos en varias manzanas,,Barrio Marcelo T. de  Alvear,32542.114,
+238,Barrio Marcelo T. de  Alvear,Bo. Marcelo T. de  Alvear,Barrios municipales,,Complejos de Edificios bajos en varias manzanas,,Barrio Marcelo T. de  Alvear,43186.221,
+239,Barrio Marcelo T. de  Alvear,Bo. Marcelo T. de  Alvear,Barrios municipales,,Complejos de Edificios bajos en varias manzanas,,Barrio Marcelo T. de  Alvear,11935.563,
+240,Barrio Marcelo T. de  Alvear,Bo. Marcelo T. de  Alvear,Barrios municipales,,Complejos de Edificios bajos en varias manzanas,,Barrio Marcelo T. de  Alvear,21780.709,
+241,Barrio Marcelo T. de  Alvear,Bo. Marcelo T. de  Alvear,Barrios municipales,,Complejos de Edificios bajos en varias manzanas,,Barrio Marcelo T. de  Alvear,22770.217,
+242,Barrio Los Andes,Bo. Los Andes,Barrios municipales,,Manzana con Complejo de Edificios bajos incorporados ya en el entramado urbano,,Barrio Los Andes,13229.677,
+243,Barrio Lafuente,Bo. Lafuente,Barrios municipales,,Complejo de Edificios,,Barrio Lafuente,17195.510,
+244,Barrio La Rioja,Bo. La Rioja,Barrios municipales,,Manzana con Complejo de Edificios incorporados ya en el entramado urbano,,Barrio La Rioja,11409.868,
+245,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,850.487,
+246,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,787.469,
+247,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,854.398,
+248,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,862.402,
+249,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,846.463,
+250,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,839.337,
+251,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,852.507,
+252,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,838.417,
+253,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,848.624,
+254,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,856.773,
+255,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,846.976,
+256,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,838.010,
+257,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,853.515,
+258,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,837.586,
+259,Barrio Kennedy,Bo. Kennedy,Barrios municipales,,,,Barrio Kennedy,835.710,
+260,Barrio Justo Suárez,Bo. Justo Suárez,Barrios municipales,,,,Barrio Justo Suárez,7816.894,
+261,Barrio Juan XXIII,Bo. Juan XXIII,Barrios municipales,,Complejo de Edificios,,Barrio Juan XXIII,13693.925,
+262,Barrio Juan XXIII,Bo. Juan XXIII,Barrios municipales,,Complejo de Edificios,,Barrio Juan XXIII,26973.785,
+263,Barrio Juan XXIII,Bo. Juan XXIII,Barrios municipales,,Complejo de Edificios,,Barrio Juan XXIII,3589.513,
+264,Barrio Juan XXIII,Bo. Juan XXIII,Barrios municipales,,Complejo de Edificios,,Barrio Juan XXIII,13578.264,
+265,Barrio Juan XXIII,Bo. Juan XXIII,Barrios municipales,,Complejo de Edificios,,Barrio Juan XXIII,13237.610,
+266,Barrio J. J. Castro,Bo. J. J. Castro,Barrios municipales,,Complejo de Edificios,,Barrio J. J. Castro,3944.590,
+267,Barrio J. J. Castro,Bo. J. J. Castro,Barrios municipales,,Complejo de Edificios,,Barrio J. J. Castro,6760.703,
+268,Barrio J. J. Castro,Bo. J. J. Castro,Barrios municipales,,Complejo de Edificios,,Barrio J. J. Castro,2053.119,
+269,Barrio J. J. Castro,Bo. J. J. Castro,Barrios municipales,,Complejo de Edificios,,Barrio J. J. Castro,5867.498,
+270,Barrio Illia,Bo. Illia,Barrios municipales,,,,Barrio Illia,16348.109,
+271,Barrio Illia,Bo. Illia,Barrios municipales,,,,Barrio Illia,5852.774,
+272,Barrio Illia,Bo. Illia,Barrios municipales,,,,Barrio Illia,5482.763,
+273,Barrio Illia,Bo. Illia,Barrios municipales,,,,Barrio Illia,6320.007,
+274,Barrio Illia,Bo. Illia,Barrios municipales,,,,Barrio Illia,5653.061,
+275,Barrio Illia,Bo. Illia,Barrios municipales,,,,Barrio Illia,6244.432,
+276,Barrio Illia,Bo. Illia,Barrios municipales,,,,Barrio Illia,5788.751,
+277,Barrio Illia,Bo. Illia,Barrios municipales,,,,Barrio Illia,5497.835,
+278,Barrio Illia,Bo. Illia,Barrios municipales,,,,Barrio Illia,5471.627,
+279,Barrio Hogar Obrero,Bo. Hogar Obrero,Barrios municipales,,,,Barrio Hogar Obrero,4028.492,
+280,Barrio Hogar Obrero,Bo. Hogar Obrero,Barrios municipales,,,,Barrio Hogar Obrero,5827.676,
+281,Barrio Hogar Obrero,Bo. Hogar Obrero,Barrios municipales,,,,Barrio Hogar Obrero,9496.258,
+282,Barrio Hogar Obrero,Bo. Hogar Obrero,Barrios municipales,,,,Barrio Hogar Obrero,2453.085,
+283,Barrio Hogar Obrero,Bo. Hogar Obrero,Barrios municipales,,,,Barrio Hogar Obrero,20751.687,
+284,Barrio Hogar Obrero,Bo. Hogar Obrero,Barrios municipales,,,,Barrio Hogar Obrero,11197.805,
+285,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),456.503,
+286,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),10707.328,
+287,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),1740.559,
+288,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),182.095,
+289,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),301.630,
+290,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),121.971,
+291,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),379.273,
+292,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),171.684,
+293,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),213.848,
+294,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),204.613,
+295,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),160.861,
+296,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),366.714,
+297,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),251.693,
+298,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),234.819,
+299,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),436.081,
+300,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),2283.262,
+301,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),1388.439,
+302,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),49523.648,
+303,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),41893.678,
+304,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),11251.375,
+305,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),230.062,
+306,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),20245.934,
+307,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),29776.214,
+308,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),2124.783,
+309,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),33778.519,
+310,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),90506.351,
+311,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),6246.857,
+312,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),4548.886,
+313,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),21686.683,
+314,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),15226.834,
+315,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),31784.356,
+316,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),8661.985,
+317,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),9966.573,
+318,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),29408.976,
+319,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),30347.815,
+320,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),14700.831,
+321,Barrio Gral. Savio (ex Lugano I y II),Bo. Gral. Savio - Lugano I y II,Barrios municipales,,Inicialmente fue llamado Conjunto Urbano Lugano I y II y conserva ese nombre popularmente,,Barrio Gral. Savio (ex Lugano I y II),21663.493,
+322,Barrio Gral. San Martín,Bo. Gral. San Martín,Barrios municipales,,,,Barrio Gral. San Martín,17224.585,
+323,Barrio Gral. San Martín,Bo. Gral. San Martín,Barrios municipales,,,,Barrio Gral. San Martín,15433.514,
+324,Barrio Gral. San Martín,Bo. Gral. San Martín,Barrios municipales,,,,Barrio Gral. San Martín,47948.639,
+325,Barrio Gral. San Martín,Bo. Gral. San Martín,Barrios municipales,,,,Barrio Gral. San Martín,10558.817,
+326,Barrio Gral. San Martín,Bo. Gral. San Martín,Barrios municipales,,,,Barrio Gral. San Martín,38302.589,
+327,Barrio Espora,Bo. Espora,Barrios municipales,,Complejo de edificios en buen estado habitacional. Frente a Villa 21-24,,Barrio Espora,7003.572,
+328,Barrio Espora,Bo. Espora,Barrios municipales,,Complejo de edificios en buen estado habitacional. Frente a Villa 21-24,,Barrio Espora,7912.657,
+329,Barrio Espora,Bo. Espora,Barrios municipales,,Complejo de edificios en buen estado habitacional. Frente a Villa 21-24,,Barrio Espora,14934.793,
+330,Barrio Espora,Bo. Espora,Barrios municipales,,Complejo de edificios en buen estado habitacional. Frente a Villa 21-24,,Barrio Espora,6969.755,
+331,Barrio Espora,Bo. Espora,Barrios municipales,,Complejo de edificios en buen estado habitacional. Frente a Villa 21-24,,Barrio Espora,16864.677,
+332,Barrio Espora,Bo. Espora,Barrios municipales,,Complejo de edificios en buen estado habitacional. Frente a Villa 21-24,,Barrio Espora,10525.549,
+333,Barrio Espora,Bo. Espora,Barrios municipales,,Complejo de edificios en buen estado habitacional. Frente a Villa 21-24,,Barrio Espora,11377.360,
+334,Barrio Los Perales (ex Dorrego),Bo. Los Perales (ex Dorrego),Barrios municipales,,Asignación de nombre según Ley 4874 publicada en Bol Ofic 4325 del 24/1/2014,,Barrio Los Perales (ex Dorrego),31675.733,
+335,Barrio Los Perales (ex Dorrego),Bo. Los Perales (ex Dorrego),Barrios municipales,,Asignación de nombre según Ley 4874 publicada en Bol Ofic 4325 del 24/1/2014,,Barrio Los Perales (ex Dorrego),45184.347,
+336,Barrio Los Perales (ex Dorrego),Bo. Los Perales (ex Dorrego),Barrios municipales,,Asignación de nombre según Ley 4874 publicada en Bol Ofic 4325 del 24/1/2014,,Barrio Los Perales (ex Dorrego),37918.925,
+337,Barrio Los Perales (ex Dorrego),Bo. Los Perales (ex Dorrego),Barrios municipales,,Asignación de nombre según Ley 4874 publicada en Bol Ofic 4325 del 24/1/2014,,Barrio Los Perales (ex Dorrego),35516.726,
+338,Complejo de Edificios Donizetti y Rivadavia,Cmjo. Donizetti y Rivadavia,Barrios municipales,,Complejo de Edificios en una sola manzana ya incoporado al entramado urbano,,Complejo de Edificios Donizetti y Rivadavia,14939.752,
+339,Barrio Copello,Bo. Copello,Barrios municipales,,,,Barrio Copello,16152.146,
+340,Barrio Copello,Bo. Copello,Barrios municipales,,,,Barrio Copello,14381.466,
+341,Barrio Copello,Bo. Copello,Barrios municipales,,,,Barrio Copello,22459.493,
+342,Complejo de Edificios Const. Almagro (Liberti 400 imp),Cmjo. Const. Almagro - Liberti 400 imp,Barrios municipales,,Complejo de Edificio y Viviendas en Construcción. No abarca toda la manzana (Nov. 2018),,Complejo de Edificios Const. Almagro (Liberti 400 imp),32744.877,
+343,Complejo de Edificios Const. Almagro (Liberti 400 imp),Cmjo. Const. Almagro - Liberti 400 imp,Barrios municipales,,,,Complejo de Edificios Const. Almagro (Liberti 400 imp),20463.439,
+344,Complejo de Edificios Constitución,Cmjo. Constitución,Barrios municipales,,Complejo de Edificios en una sola manzana ya incoporado al entramado urbano,,Complejo de Edificios Constitución,4981.306,
+345,Complejo de Edificios Constitución,Cmjo. Constitución,Barrios municipales,,Complejo de Edificios en una sola manzana ya incoporado al entramado urbano,,Complejo de Edificios Constitución,3764.891,
+346,Complejo Versalles (Bruselas y Tinogasta),Cmjo. Versalles (Bruselas y Tinogasta),Barrios municipales,,Complejos de Edificaciones y casas ya incorporadas al entramado urbano,,Complejo Versalles (Bruselas y Tinogasta),10006.064,
+347,Barrio Colonia Solá,Bo. Colonia Solá,Barrios municipales,,Barrio de casas y complejos de viviendas con relativa deficiencia habitacional,,Barrio Colonia Solá,7089.239,
+348,Barrio Colegiales,Bo. Colegiales,Barrios municipales,,Manzana catastral con complejo de edificios,,Barrio Colegiales,5766.657,
+349,Barrio Colegiales,Bo. Colegiales,Barrios municipales,,Manzana catastral con complejo de edificios,,Barrio Colegiales,10450.739,
+350,CMV Irala I,CMV Irala I,Barrios municipales,,Complejo de Edificios,,CMV Irala I,10491.277,
+351,CMV ex-Villa 20,CMV ex-Villa 20,Barrios municipales,,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20 - Se puso como no Publicable ya que en Dic 2018 se agregaron esas manzanas a Villas Urbanizadas según info DGESyC 2017,,CMV ex-Villa 20,2065.722,
+352,CMV ex-Villa 20,CMV ex-Villa 20,Barrios municipales,,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20 - Se puso como no Publicable ya que en Dic 2018 se agregaron esas manzanas a Villas Urbanizadas según info DGESyC 2017,,CMV ex-Villa 20,2049.083,
+353,CMV ex-Villa 20,CMV ex-Villa 20,Barrios municipales,,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20 - Se puso como no Publicable ya que en Dic 2018 se agregaron esas manzanas a Villas Urbanizadas según info DGESyC 2017,,CMV ex-Villa 20,4383.801,
+354,CMV ex-Villa 20,CMV ex-Villa 20,Barrios municipales,,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20 - Se puso como no Publicable ya que en Dic 2018 se agregaron esas manzanas a Villas Urbanizadas según info DGESyC 2017,,CMV ex-Villa 20,4402.702,
+355,CMV ex-Villa 20,CMV ex-Villa 20,Barrios municipales,,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20 - Se puso como no Publicable ya que en Dic 2018 se agregaron esas manzanas a Villas Urbanizadas según info DGESyC 2017,,CMV ex-Villa 20,10355.433,
+356,CMV ex-Villa 20,CMV ex-Villa 20,Barrios municipales,,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20 - Se puso como no Publicable ya que en Dic 2018 se agregaron esas manzanas a Villas Urbanizadas según info DGESyC 2017,,CMV ex-Villa 20,4124.081,
+357,CMV Artilleros y Pampa,CMV Artilleros y Pampa,Barrios municipales,,Complejos de Edificios ya incorporados en la trama urbana - HABRÍA QUE DEFINIR SI SE SIGUEN MOSTRANDO!!,,CMV Artilleros y Pampa,12700.264,
+358,Barrio Charrúa (ex Villa 12),Bo. Charrúa (ex Villa 12),Barrios municipales,,Barrio de Viviendas precarias y humildes,,Barrio Charrúa (ex Villa 12),10744.114,
+359,Barrio Charrúa (ex Villa 12),Bo. Charrúa (ex Villa 12),Barrios municipales,,Barrio de Viviendas precarias y humildes,,Barrio Charrúa (ex Villa 12),9987.017,
+360,Barrio Charrúa (ex Villa 12),Bo. Charrúa (ex Villa 12),Barrios municipales,,Barrio de Viviendas precarias y humildes,,Barrio Charrúa (ex Villa 12),4291.413,
+361,Barrio Charrúa (ex Villa 12),Bo. Charrúa (ex Villa 12),Barrios municipales,,Barrio de Viviendas precarias y humildes,,Barrio Charrúa (ex Villa 12),10102.156,
+362,Barrio Charrúa (ex Villa 12),Bo. Charrúa (ex Villa 12),Barrios municipales,,Barrio de Viviendas precarias y humildes,,Barrio Charrúa (ex Villa 12),10331.358,
+363,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,6957.526,
+364,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,944.383,
+365,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,7610.260,
+366,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,6827.500,
+367,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,568.657,
+368,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,7788.950,
+369,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,2339.830,
+370,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,3665.218,
+371,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,4623.471,
+372,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,603.529,
+373,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,770.159,
+374,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,816.430,
+375,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,560.118,
+376,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,1313.930,
+377,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,7677.190,
+378,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,8266.045,
+379,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,8737.373,
+380,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,7267.941,
+381,Barrio Catalinas Sur,Bo. Catalinas Sur,Barrios municipales,,,,Barrio Catalinas Sur,10960.396,
+382,Barrio Castex,Bo. Castex,Barrios municipales,,,,Barrio Castex,24191.266,
+383,Barrio Castex,Bo. Castex,Barrios municipales,,,,Barrio Castex,19640.872,
+384,Barrio Castex,Bo. Castex,Barrios municipales,,,,Barrio Castex,17211.284,
+385,Casas de Boyacá,Casas de Boyacá,Barrios municipales,,Manzana de complejo de casas y edificios ya incorporados en el entramado urbano,,Casas de Boyacá,13292.807,
+386,Barrio Ramón Carrillo,Bo. Ramón Carrillo,Barrios municipales,,"Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Ramón Carrillo 1, pero cuando se puso Bo. Lacarra al contiguo, se quitó el número y se dejó sólo Ramón Carrillo",Barrio Ramón Carrillo 1,Barrio Ramón Carrillo,1757.766,
+387,Barrio Ramón Carrillo,Bo. Ramón Carrillo,Barrios municipales,,"Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Ramón Carrillo 1, pero cuando se puso Bo. Lacarra al contiguo, se quitó el número y se dejó sólo Ramón Carrillo",Barrio Ramón Carrillo 1,Barrio Ramón Carrillo,2535.842,
+388,Barrio Ramón Carrillo,Bo. Ramón Carrillo,Barrios municipales,,"Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Ramón Carrillo 1, pero cuando se puso Bo. Lacarra al contiguo, se quitó el número y se dejó sólo Ramón Carrillo",Barrio Ramón Carrillo 1,Barrio Ramón Carrillo,1392.694,
+389,Barrio Ramón Carrillo,Bo. Ramón Carrillo,Barrios municipales,,"Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Ramón Carrillo 1, pero cuando se puso Bo. Lacarra al contiguo, se quitó el número y se dejó sólo Ramón Carrillo",Barrio Ramón Carrillo 1,Barrio Ramón Carrillo,1395.618,
+390,Barrio Ramón Carrillo,Bo. Ramón Carrillo,Barrios municipales,,"Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Ramón Carrillo 1, pero cuando se puso Bo. Lacarra al contiguo, se quitó el número y se dejó sólo Ramón Carrillo",Barrio Ramón Carrillo 1,Barrio Ramón Carrillo,1160.392,
+391,Barrio Ramón Carrillo,Bo. Ramón Carrillo,Barrios municipales,,"Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Ramón Carrillo 1, pero cuando se puso Bo. Lacarra al contiguo, se quitó el número y se dejó sólo Ramón Carrillo",Barrio Ramón Carrillo 1,Barrio Ramón Carrillo,1622.130,
+392,Barrio Ramón Carrillo,Bo. Ramón Carrillo,Barrios municipales,,"Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Ramón Carrillo 1, pero cuando se puso Bo. Lacarra al contiguo, se quitó el número y se dejó sólo Ramón Carrillo",Barrio Ramón Carrillo 1,Barrio Ramón Carrillo,1215.527,
+393,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1442.795,
+394,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1660.588,
+395,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1649.953,
+396,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1710.034,
+397,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1713.764,
+398,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1835.593,
+399,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1784.479,
+400,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1814.621,
+401,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1701.364,
+402,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1832.967,
+403,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1838.058,
+404,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1832.966,
+405,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,2866.236,
+406,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,3047.637,
+407,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,2634.380,
+408,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,2705.802,
+409,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,2941.488,
+410,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,2909.582,
+411,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,2926.316,
+412,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,2735.641,
+413,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,3037.052,
+414,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1954.792,
+415,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,1948.895,
+416,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,2093.956,
+417,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,4355.604,
+418,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,3400.259,
+419,Barrio Lacarra,Bo. Lacarra,Barrios municipales,,Barrio de casas y edificios humildes y precarios linderos a Villa 3 Barrio Fátima. Antes denominado Barrio Ramón Carrillo 2,Barrio Ramón Carrillo - Ramòn Carrillo 2,Barrio Lacarra,3898.193,
+420,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,977.273,
+421,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1941.957,
+422,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1952.312,
+423,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1954.347,
+424,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1952.270,
+425,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,5972.217,
+426,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1984.585,
+427,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1984.602,
+428,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1952.651,
+429,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1495.596,
+430,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1990.669,
+431,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1942.281,
+432,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,2685.943,
+433,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,890.265,
+434,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1280.589,
+435,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,2001.555,
+436,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,2001.193,
+437,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1934.493,
+438,Barrio Cardenal Samoré,Bo. Cardenal Samoré,Barrios municipales,,,,Barrio Cardenal Samoré,1936.254,
+439,Barrio Calaza,Bo. Calaza,Barrios municipales,,Barrio de casas humildes y precarias lindero a sector de Villas,,Barrio Calaza,8179.152,
+440,Barrio Balbastro,Bo. Balbastro,Barrios municipales,,Complejo de Edificios,,Barrio Balbastro,16474.018,
+441,Barrio Los Pinos,Bo. Los Pinos,Barrios municipales,,Barrio humilde de construcciones precarias  y de casas bajas - Redigitalizado por USIG en Junio de 2016 (agregado de parte posterior a Av Riestra),,Barrio Los Pinos,9577.470,
+442,Barrio Albarellos,Bo. Albarellos,Barrios municipales,,,,Barrio Albarellos,5397.069,
+443,Barrio Albarellos,Bo. Albarellos,Barrios municipales,,,,Barrio Albarellos,5590.208,
+444,Barrio Alborada,Bo. Alborada,Barrios municipales,,,,Barrio Alborada,10181.828,
+445,CMV Consorcio 16,CMV Consorcio 16,Barrios municipales,,Complejo de Edificios - Redigitalización del registro,,CMV Consorcio 16,4624.288,
+446,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 35,,Zavaleta,NHT Zavaleta - Tira 35,1354.792,
+447,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 34,,Zavaleta,NHT Zavaleta - Tira 34,938.893,
+448,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 33,,Zavaleta,NHT Zavaleta - Tira 33,889.289,
+449,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 31,,Zavaleta,NHT Zavaleta - Tira 31,906.177,
+450,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 29,,Zavaleta,NHT Zavaleta - Tira 29,882.988,
+451,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 27,,Zavaleta,NHT Zavaleta - Tira 27,905.522,
+452,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 24,,Zavaleta,NHT Zavaleta - Tira 24,881.892,
+453,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 23,,Zavaleta,NHT Zavaleta - Tira 23,1176.694,
+454,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 32,,Zavaleta,NHT Zavaleta - Tira 32,859.622,
+455,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 30,,Zavaleta,NHT Zavaleta - Tira 30,859.426,
+456,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 28,,Zavaleta,NHT Zavaleta - Tira 28,814.721,
+457,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 25,,Zavaleta,NHT Zavaleta - Tira 25,1309.428,
+458,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 26,,Zavaleta,NHT Zavaleta - Tira 26,1179.481,
+459,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 1,,Zavaleta,NHT Zavaleta - Tira 1,1449.338,
+460,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 3,,Zavaleta,NHT Zavaleta - Tira 3,1007.797,
+461,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 5,,Zavaleta,NHT Zavaleta - Tira 5,1134.904,
+462,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 7,,Zavaleta,NHT Zavaleta - Tira 7,1044.177,
+463,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 2,,Zavaleta,NHT Zavaleta - Tira 2,1657.845,
+464,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 4,,Zavaleta,NHT Zavaleta - Tira 4,1169.720,
+465,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 6,,Zavaleta,NHT Zavaleta - Tira 6,1648.472,
+466,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 9,,Zavaleta,NHT Zavaleta - Tira 9,1161.908,
+467,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 8,,Zavaleta,NHT Zavaleta - Tira 8,1442.776,
+468,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 11,,Zavaleta,NHT Zavaleta - Tira 11,1255.376,
+469,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 13,,Zavaleta,NHT Zavaleta - Tira 13,1094.775,
+470,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 10,,Zavaleta,NHT Zavaleta - Tira 10,1237.861,
+471,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 23,,,NHT Del Trabajo - Tira 23,804.676,
+472,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 19,,,NHT Del Trabajo - Tira 19,790.916,
+473,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 16,,,NHT Del Trabajo - Tira 16,806.190,
+474,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 13,,,NHT Del Trabajo - Tira 13,845.277,
+475,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 10,,,NHT Del Trabajo - Tira 10,827.767,
+476,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 7,,,NHT Del Trabajo - Tira 7,763.702,
+477,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 5,,,NHT Del Trabajo - Tira 5,766.629,
+478,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 8,,,NHT Del Trabajo - Tira 8,812.629,
+479,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 11,,,NHT Del Trabajo - Tira 11,813.826,
+480,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 14,,,NHT Del Trabajo - Tira 14,791.260,
+481,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 17,,,NHT Del Trabajo - Tira 17,809.091,
+482,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 20,,,NHT Del Trabajo - Tira 20,803.558,
+483,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 24,,,NHT Del Trabajo - Tira 24,872.920,
+484,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 21,,,NHT Del Trabajo - Tira 21,752.748,
+485,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 18,,,NHT Del Trabajo - Tira 18,827.280,
+486,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 15,,,NHT Del Trabajo - Tira 15,808.327,
+487,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira12,,,NHT Del Trabajo - Tira12,799.304,
+488,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 9,,,NHT Del Trabajo - Tira 9,799.676,
+489,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 6,,,NHT Del Trabajo - Tira 6,819.043,
+490,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 4,,,NHT Del Trabajo - Tira 4,837.625,
+491,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 3,,,NHT Del Trabajo - Tira 3,823.155,
+492,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 2,,,NHT Del Trabajo - Tira 2,831.845,
+493,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 1,,,NHT Del Trabajo - Tira 1,814.937,
+494,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 22,,,NHT Del Trabajo - Tira 22,790.912,
+495,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira 25,,,NHT Del Trabajo - Tira 25,1047.780,
+496,NHT Del Trabajo,NHT Del Trabajo,Nùcleos Habitacionales Transitorios,Tira s/n,Registro agregado según info de DGESyC 2017. Tira sin nombre,,NHT Del Trabajo - Tira s/n,398.267,
+497,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,1,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 1,18800.442,Barrio 1
+498,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,2,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 2,11179.272,Barrio 1
+499,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,9A,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 9A,8766.388,Barrio 11
+500,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,26,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 26,15312.587,Barrio 11
+501,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,9B,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 9B,7556.889,Barrio 11
+502,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,10,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 10,6878.432,Barrio 11
+503,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,25,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 25,8773.922,Barrio 14 - Zona Norte
+504,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,23,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 23,8239.082,Barrio 14 - Zona Norte
+505,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,20,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 20,6937.491,Barrio 14 - Zona Norte
+506,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,22,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 22,6920.335,Barrio 14 - Zona Norte
+507,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,21,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 21,7346.297,Barrio 14 - Zona Norte
+508,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,19,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 19,8518.123,Barrio 14 - Zona Norte
+509,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,18,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 18,8697.779,Barrio 14 - Zona Norte
+510,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,17,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 17,4094.196,Barrio 14 - Zona Norte
+511,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,16,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 16,4762.542,Barrio 14 - Zona Norte
+512,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,15,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 15,7798.536,Barrio 14 - Zona Norte
+513,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,14,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 14,5496.892,Barrio 14 - Zona Norte
+514,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,13,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 13,5837.065,Barrio 14 - Zona Norte
+515,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,12,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 12,2207.637,Barrio 14 - Zona Norte
+516,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,11,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 11,4123.381,Barrio 14 - Zona Norte
+517,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,31,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 31,5010.557,Barrio 14 - Zona Norte
+518,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,3,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 3,6971.325,Barrio 1
+519,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,4,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 4,3635.626,Barrio 1
+520,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,6,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 6,3457.130,Barrio 1
+521,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,5,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 5,4797.650,Barrio 1
+522,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,24,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 24,16071.663,Barrio 14 - Zona Norte
+523,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,7A,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 7A,2213.801,
+524,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,7D,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 7D,1012.746,
+525,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,7F,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 7F,1333.756,
+526,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,7E,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 7E,1349.082,
+527,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,7G,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 7G,2015.069,Barrio 1
+528,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,7B,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 7B,1053.317,
+529,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,7C,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 7C,1152.910,
+530,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,11,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 11,1590.152,Barrio 11
+531,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,28,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 28,11282.215,Barrio 11
+532,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,29,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 29,18540.732,Barrio 11
+533,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli,1088.570,Barrio 1
+534,Villa 13 bis,Villa 13 bis,Villas,1,,,Villa 13 bis - 1,5034.134,
+535,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,32,,Barrio 15,Villa 15 - Ciudad Oculta - 32,21635.455,
+536,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,30,,Barrio 15,Villa 15 - Ciudad Oculta - 30,11029.898,
+537,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,29,,Barrio 15,Villa 15 - Ciudad Oculta - 29,11860.130,
+538,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,26,,Barrio 15,Villa 15 - Ciudad Oculta - 26,6105.365,
+539,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,28,,Barrio 15,Villa 15 - Ciudad Oculta - 28,14762.866,
+540,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,27,,Barrio 15,Villa 15 - Ciudad Oculta - 27,12611.814,
+541,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,9,,Barrio 15,Villa 15 - Ciudad Oculta - 9,2142.660,
+542,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,10,,Barrio 15,Villa 15 - Ciudad Oculta - 10,1844.343,
+543,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,13,,Barrio 15,Villa 15 - Ciudad Oculta - 13,1765.710,
+544,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,14,,Barrio 15,Villa 15 - Ciudad Oculta - 14,1196.480,
+545,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,16,,Barrio 15,Villa 15 - Ciudad Oculta - 16,1813.459,
+546,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,18,,Barrio 15,Villa 15 - Ciudad Oculta - 18,1674.724,
+547,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,20,,Barrio 15,Villa 15 - Ciudad Oculta - 20,2461.547,
+548,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,22,,Barrio 15,Villa 15 - Ciudad Oculta - 22,2896.415,
+549,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,24,,Barrio 15,Villa 15 - Ciudad Oculta - 24,1136.963,
+550,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,25,,Barrio 15,Villa 15 - Ciudad Oculta - 25,1424.561,
+551,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,23,,Barrio 15,Villa 15 - Ciudad Oculta - 23,4670.283,
+552,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,21,,Barrio 15,Villa 15 - Ciudad Oculta - 21,1763.264,
+553,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,19,,Barrio 15,Villa 15 - Ciudad Oculta - 19,1530.830,
+554,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,17,,Barrio 15,Villa 15 - Ciudad Oculta - 17,1578.258,
+555,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,15,,Barrio 15,Villa 15 - Ciudad Oculta - 15,876.531,
+556,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,12,,Barrio 15,Villa 15 - Ciudad Oculta - 12,2440.727,
+557,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,11,,Barrio 15,Villa 15 - Ciudad Oculta - 11,2637.862,
+558,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,8,,Barrio 15,Villa 15 - Ciudad Oculta - 8,4761.250,
+559,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,6,,Barrio 15,Villa 15 - Ciudad Oculta - 6,10247.428,
+560,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,1,,Barrio 15,Villa 15 - Ciudad Oculta - 1,6543.971,
+561,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,5,,Barrio 15,Villa 15 - Ciudad Oculta - 5,15302.353,
+562,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,3,,Barrio 15,Villa 15 - Ciudad Oculta - 3,10071.702,
+563,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,4,,Barrio 15,Villa 15 - Ciudad Oculta - 4,8261.966,
+564,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,2,,Barrio 15,Villa 15 - Ciudad Oculta - 2,8072.908,
+565,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,27 bis,,Barrio 15,Villa 15 - Ciudad Oculta - 27 bis,27815.361,
+566,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,31,,Barrio 15,Villa 15 - Ciudad Oculta - 31,16570.853,
+567,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,Mza s/n,,Barrio 15,Villa 15 - Ciudad Oculta - Mza s/n,4438.417,
+568,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,7,,Barrio 15,Villa 15 - Ciudad Oculta - 7,2391.884,
+569,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,26 bis,,Barrio 15,Villa 15 - Ciudad Oculta - 26 bis,18868.330,
+570,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,31 bis,,Barrio 15,Villa 15 - Ciudad Oculta - 31 bis,19016.228,
+571,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,Edificios Grises,Figuraba anteriormente como Villa. En DGESyC aparece ahora como Urbanización de Villa,Barrio 15,Villa 15 - Ciudad Oculta - Edificios Grises,1829.638,
+572,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,3 BIS,,Barrio 15,Villa 15 - Ciudad Oculta - 3 BIS,1537.771,
+573,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,28 Edificios Rojos,,Barrio 15,Villa 15 - Ciudad Oculta - 28 Edificios Rojos,5064.181,
+574,Villa 15 - Ciudad Oculta,Villa 15 - Ciudad Oculta,Villas,705,,Barrio 15,Villa 15 - Ciudad Oculta - 705,19055.824,
+575,Villa 16 - Barrio Emaus,Villa 16 - Barrio Emaus,Villas,1,,,Villa 16 - Barrio Emaus - 1,3839.381,
+576,Villa 17 - Barrio Pirelli,Villa 17 - Barrio Pirelli,Villas,1,,,Villa 17 - Barrio Pirelli - 1,5313.104,
+577,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,1,Modificación de digitalización (mínima) por USIG en Enero de 2017,,Barrio INTA (ex Villa 19) - 1,3538.512,
+578,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,2,Modificación de digitalización (mínima) por USIG en Enero de 2017,,Barrio INTA (ex Villa 19) - 2,2485.718,
+579,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,5,Modificación de digitalización por USIG según Datos de Catastro en Enero de 2017,,Barrio INTA (ex Villa 19) - 5,9084.622,
+580,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,4,Modificación de digitalización por USIG según Datos de Catastro en Enero de 2017,,Barrio INTA (ex Villa 19) - 4,5276.770,
+581,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,6 B,Modificación de digitalización por USIG según Datos de Catastro en Enero de 2017,,Barrio INTA (ex Villa 19) - 6 B,5406.395,
+582,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,3,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 3 en estas distintas manzanas - ID USIG anterior: 3086,,Barrio INTA (ex Villa 19) - 3,2687.785,
+583,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,7 B,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 7B en estas distintas manzanas - ID USIG anterior: 3087,,Barrio INTA (ex Villa 19) - 7 B,6418.418,
+584,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,7 A,Modificación de digitalización por USIG según Datos de Catastro en Enero de 2017,,Barrio INTA (ex Villa 19) - 7 A,8207.058,
+585,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,1,Modificación de digitalización (mínima) por USIG en Enero de 2017,,Barrio INTA (ex Villa 19) - 1,2086.279,
+586,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,1,Modificación de digitalización (mínima) por USIG en Enero de 2017,,Barrio INTA (ex Villa 19) - 1,668.934,
+587,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,3,Modificación de digitalización por USIG según Datos de Catastro en Enero de 2017,,Barrio INTA (ex Villa 19) - 3,2007.949,
+588,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,2,Modificación de digitalización (mínima) por USIG en Enero de 2017,,Barrio INTA (ex Villa 19) - 2,2385.060,
+589,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,6 A,Modificación de digitalización por USIG según Datos de Catastro en Enero de 2017,,Barrio INTA (ex Villa 19) - 6 A,3212.560,
+590,Villa 20,Villa 20,Villas,10,Redigitalización en Octubre de 2018. Se generó espacio de calle en el medio. Mismo ID y mismo nombre - Fuente DGEyC 2017,Barrio 20,Villa 20 - 10,7023.011,
+591,Villa 20,Villa 20,Villas,21,,Barrio 20,Villa 20 - 21,12983.125,
+592,Villa 20,Villa 20,Villas,14,,Barrio 20,Villa 20 - 14,10196.012,
+593,Villa 20,Villa 20,Villas,13,,Barrio 20,Villa 20 - 13,4356.433,
+594,Villa 20,Villa 20,Villas,4,,Barrio 20,Villa 20 - 4,4540.199,
+595,Villa 20,Villa 20,Villas,11,Redigitalización en Octubre de 2018. Se generó espacio de calle en el medio. Mismo ID y mismo nombre - Fuente DGEyC 2017,Barrio 20,Villa 20 - 11,14323.594,
+596,Villa 20,Villa 20,Villas,16,,Barrio 20,Villa 20 - 16,9075.580,
+597,Villa 20,Villa 20,Villas,23,,Barrio 20,Villa 20 - 23,14429.437,
+598,Villa 20,Villa 20,Villas,15,,Barrio 20,Villa 20 - 15,5057.780,
+599,Villa 20,Villa 20,Villas,12,,Barrio 20,Villa 20 - 12,5916.907,
+600,Villa 20,Villa 20,Villas,9,,Barrio 20,Villa 20 - 9,7300.899,
+601,Villa 20,Villa 20,Villas,5,Redigitalización en Octubre de 2018. Se generó espacio de calle en el medio. Mismo ID y mismo nombre - Fuente DGEyC 2017,Barrio 20,Villa 20 - 5,10479.709,
+602,Villa 20,Villa 20,Villas,25,,Barrio 20,Villa 20 - 25,2892.301,
+603,Villa 20,Villa 20,Villas,22,,Barrio 20,Villa 20 - 22,18865.275,
+604,Villa 20,Villa 20,Villas,17,,Barrio 20,Villa 20 - 17,6854.921,
+605,Villa 20,Villa 20,Villas,20,,Barrio 20,Villa 20 - 20,10456.648,
+606,Villa 20,Villa 20,Villas,18,,Barrio 20,Villa 20 - 18,8507.800,
+607,Villa 20,Villa 20,Villas,19,,Barrio 20,Villa 20 - 19,3932.709,
+608,Villa 20,Villa 20,Villas,26,Redigitalización de forma en Octubre de 2018. Se editó dejando espacio de calle entre manzanas - Fuente DGEyC 2017,Barrio 20,Villa 20 - 26,10579.440,
+609,Villa 20,Villa 20,Villas,24,Redigitalización de forma en Octubre de 2018. Se editó dejando espacio de calle entre manzanas - Fuente DGEyC 2017,Barrio 20,Villa 20 - 24,2695.539,
+610,Villa 20,Villa 20,Villas,27,Redigitalización de forma en Octubre de 2018. Se editó dejando espacio de calle entre manzanas - Fuente DGEyC 2017,Barrio 20,Villa 20 - 27,9538.698,
+611,Villa 20,Villa 20,Villas,8,Redigitalización de forma en Octubre de 2018. Se editó dejando espacio de calle entre manzanas - Fuente DGEyC 2017,Barrio 20,Villa 20 - 8,11818.705,
+612,Villa 20,Villa 20,Villas,7,Redigitalización en Octubre de 2018. Se generó espacio de calles en el medio. Mismo ID y mismo nombre - Fuente DGEyC 2017,Barrio 20,Villa 20 - 7,9451.720,
+613,Villa 20,Villa 20,Villas,1B,Todos estos registros eran Manzana 1 (Id_USIG 3117). Octubre 2018 se separan en distintas Manzanas 1 - Fuente DGEyC 2017,Barrio 20,Villa 20 - 1B,3037.733,
+614,Villa 20,Villa 20,Villas,6,Redigitalización en Octubre de 2018. Se generó espacio de calle en el medio. Mismo ID y mismo nombre - Fuente DGEyC 2017,Barrio 20,Villa 20 - 6,9805.486,
+615,Villa 20,Villa 20,Villas,3,Redigitalización en Octubre de 2018. Se generó espacio de calle en el medio. Mismo ID y mismo nombre - Fuente DGEyC 2017,Barrio 20,Villa 20 - 3,9772.142,
+616,Villa 20,Villa 20,Villas,2 A,Redigitalización de forma en Octubre de 2018. Se editó dejando espacio de calle entre manzanas - Fuente DGEyC 2017,Barrio 20,Villa 20 - 2 A,3158.004,
+617,Villa 20,Villa 20,Villas,2 C,,Barrio 20,Villa 20 - 2 C,3123.827,
+618,Villa 20,Villa 20,Villas,30,,Barrio 20,Villa 20 - 30,17131.731,
+619,Villa 20,Villa 20,Villas,29,,Barrio 20,Villa 20 - 29,8900.279,
+620,Villa 20,Villa 20,Villas,28,,Barrio 20,Villa 20 - 28,6149.828,
+621,Villa 20,Villa 20,Villas,2 B,,Barrio 20,Villa 20 - 2 B,2869.444,
+622,Villa 20,Villa 20,Villas,2 V,Redigitalización de forma en Octubre de 2018. Se editó dejando espacio de calle entre manzanas - Fuente DGEyC 2017,Barrio 20,Villa 20 - 2 V,2869.986,
+623,Villa 21-24,Villa 21-24,Villas,53 D,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 53 en estas distintas manzanas - ID USIG anterior: 3127 / En Mayo 2020 se agregó nomenclatura de Letra según revisión de datos y chequeo en zona de Villas,Barrio 21-24,Villa 21-24 - 53 D,1846.927,El Ceibo
+624,Villa 21-24,Villa 21-24,Villas,52 D,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 52B en estas distintas manzanas - ID USIG anterior: 3128 / En Mayo 2020 se reasignó nomenclatura con LETRA según info y chequeo en el lugar. Antes era 52 B.,Barrio 21-24,Villa 21-24 - 52 D,2621.256,El Ceibo
+625,Villa 21-24,Villa 21-24,Villas,56,Modificación de digitalización (mínima) por USIG en Enero de 2017,Barrio 21-24,Villa 21-24 - 56,7977.824,2 de Abril
+626,Villa 21-24,Villa 21-24,Villas,57,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 57 en estas distintas manzanas - ID USIG anterior: 3131,Barrio 21-24,Villa 21-24 - 57,4818.994,Villa 21-24
+627,Villa 21-24,Villa 21-24,Villas,Loma Alegre 6,Modificación de digitalización (mínima) por USIG en Enero de 2017 - Redigitalización en Junio de 2020 en el Sector Loma  Alegre en base a info del IVC. Segmentación de manzanas y renombramiento. Antes Mza 58,Barrio 21-24,Villa 21-24 - Loma Alegre 6,3561.125,Loma Alegre
+628,Villa 21-24,Villa 21-24,Villas,Loma Alegre 10,"Redigitalización en Junio de 2020 en el Sector Loma  Alegre en base a info del IVC. Segmentación de manzanas y renombramiento. Antes Mza 55 – Si bien el Barrio aparece como La Robustiana, el nombre figura como Loma Alegre. Se mantiene el barrio interno.",Barrio 21-24,Villa 21-24 - Loma Alegre 10,20749.919,La Robustiana de San Martín
+629,Villa 21-24,Villa 21-24,Villas,Loma Alegre 8,Redigitalización en Junio de 2020 en el Sector Loma  Alegre en base a info del IVC. Segmentación de manzanas y renombramiento. Antes Mza 54,Barrio 21-24,Villa 21-24 - Loma Alegre 8,9235.592,Loma Alegre
+630,Villa 21-24,Villa 21-24,Villas,29,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 24),Barrio 21-24,Villa 21-24 - 29,29726.867,Tres Rosas (ex Villa 24)
+631,Villa 21-24,Villa 21-24,Villas,24,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 24),Barrio 21-24,Villa 21-24 - 24,14351.786,Tres Rosas (ex Villa 24)
+632,Villa 21-24,Villa 21-24,Villas,23,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 24),Barrio 21-24,Villa 21-24 - 23,34317.349,Tres Rosas (ex Villa 24)
+633,Villa 21-24,Villa 21-24,Villas,27,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 24),Barrio 21-24,Villa 21-24 - 27,16119.207,Tres Rosas (ex Villa 24)
+634,Villa 21-24,Villa 21-24,Villas,22,,Barrio 21-24,Villa 21-24 - 22,11613.625,Alegre Pavimento
+635,Villa 21-24,Villa 21-24,Villas,21,,Barrio 21-24,Villa 21-24 - 21,24294.209,Villa 21
+636,Villa 21-24,Villa 21-24,Villas,19,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 19,10053.726,Caacupé Lavardén (ex Villa 21)
+637,Villa 21-24,Villa 21-24,Villas,20,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 20,7049.672,Caacupé Lavardén (ex Villa 21)
+638,Villa 21-24,Villa 21-24,Villas,16,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 16,8258.831,Lavardén Montesquieu (ex Villa 21)
+639,Villa 21-24,Villa 21-24,Villas,15,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 15,8533.804,Lavardén Montesquieu (ex Villa 21)
+640,Villa 21-24,Villa 21-24,Villas,13,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 13,14451.008,Caacupé Luna (ex Villa 21)
+641,Villa 21-24,Villa 21-24,Villas,12,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 12,10391.756,Caacupé Luna (ex Villa 21)
+642,Villa 21-24,Villa 21-24,Villas,11,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 11,12165.614,Caacupé Luna (ex Villa 21)
+643,Villa 21-24,Villa 21-24,Villas,9,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 9,15281.828,Caacupé Luna (ex Villa 21)
+644,Villa 21-24,Villa 21-24,Villas,10,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 10,8951.348,Caacupé Luna (ex Villa 21)
+645,Villa 21-24,Villa 21-24,Villas,14,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 14,10844.337,Lavardén Montesquieu (ex Villa 21)
+646,Villa 21-24,Villa 21-24,Villas,18,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 21),Barrio 21-24,Villa 21-24 - 18,18506.369,Lavardén Caacupé La Gruta (ex V)illa 21)
+647,Villa 21-24,Villa 21-24,Villas,GALPONES DGI,,Barrio 21-24,Villa 21-24 - GALPONES DGI,13780.785,Villa 21
+648,Villa 21-24,Villa 21-24,Villas,8,,Barrio 21-24,Villa 21-24 - 8,21926.922,El Triángulo
+649,Villa 21-24,Villa 21-24,Villas,7,"Redigitalizacón en Junio 2020 en base a información enviada de IVC, Desarrollo Humano y Hábitat y chequeo en fotografías aéreas",Barrio 21-24,Villa 21-24 - 7,19558.895,La Marmolera
+650,Villa 21-24,Villa 21-24,Villas,4,"Redigitalizacón en Junio 2020 en base a información enviada de IVC, Desarrollo Humano y Hábitat y chequeo en fotografías aéreas",Barrio 21-24,Villa 21-24 - 4,4582.940,Tierra Amarilla
+651,Villa 21-24,Villa 21-24,Villas,3,"Redigitalizacón en Junio 2020 en base a información enviada de IVC, Desarrollo Humano y Hábitat y chequeo en fotografías aéreas",Barrio 21-24,Villa 21-24 - 3,4270.491,Tierra Amarilla
+652,Villa 21-24,Villa 21-24,Villas,6,"Redigitalizacón en Junio 2020 en base a información enviada de IVC, Desarrollo Humano y Hábitat y chequeo en fotografías aéreas",Barrio 21-24,Villa 21-24 - 6,10539.589,Tierra Amarilla
+653,Villa 21-24,Villa 21-24,Villas,2,"Redigitalizacón en Junio 2020 en base a información enviada de IVC, Desarrollo Humano y Hábitat y chequeo en fotografías aéreas",Barrio 21-24,Villa 21-24 - 2,14388.793,Tierra Amarilla
+654,Villa 21-24,Villa 21-24,Villas,5,"Redigitalizacón en Junio 2020 en base a información enviada de IVC, Desarrollo Humano y Hábitat y chequeo en fotografías aéreas",Barrio 21-24,Villa 21-24 - 5,10107.279,Tierra Amarilla
+655,Villa 21-24,Villa 21-24,Villas,17,,Barrio 21-24,Villa 21-24 - 17,2462.763,Alegre Pavimento
+656,Villa 21-24,Villa 21-24,Villas,28,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 24),Barrio 21-24,Villa 21-24 - 28,9941.309,Tres Rosas (ex Villa 24)
+657,Villa 21-24,Villa 21-24,Villas,52 E,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 52A en estas distintas manzanas - ID USIG anterior: 3168 / En Mayo 2020 se reasignó nomenclatura con LETRA  según info y chequeo en el lugar. Antes era 52 A,Barrio 21-24,Villa 21-24 - 52 E,1460.888,El Ceibo
+658,Villa 21-24,Villa 21-24,Villas,56,Modificación de digitalización (mínima) por USIG en Enero de 2017,Barrio 21-24,Villa 21-24 - 56,5127.902,2 de Abril
+659,Villa 21-24,Villa 21-24,Villas,Loma Alegre 4,Redigitalización en Junio de 2020 en el Sector Loma  Alegre en base a info del IVC. Segmentación de manzanas y renombramiento. Antes Mza 59,Barrio 21-24,Villa 21-24 - Loma Alegre 4,7086.927,Loma Alegre
+660,Villa 21-24,Villa 21-24,Villas,26,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 24),Barrio 21-24,Villa 21-24 - 26,13287.844,Tres Rosas (ex Villa 24)
+661,Villa 21-24,Villa 21-24,Villas,25,Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 24),Barrio 21-24,Villa 21-24 - 25,24222.561,Tres Rosas (ex Villa 24)
+662,Villa 21-24,Villa 21-24,Villas,1,"Redigitalizacón en Junio 2020 en base a información enviada de IVC, Desarrollo Humano y Hábitat y chequeo en fotografías aéreas",Barrio 21-24,Villa 21-24 - 1,13616.180,La Toma
+663,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,3,,,Villa 3 - Barrio Fátima - 3,9133.478,
+664,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,4,,,Villa 3 - Barrio Fátima - 4,22466.014,
+665,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,7,,,Villa 3 - Barrio Fátima - 7,14331.090,
+666,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,1,,,Villa 3 - Barrio Fátima - 1,17023.823,
+667,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,Torre D,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación mínima de forma),,Villa 3 - Barrio Fátima - Torre D,3186.314,
+668,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,6,,,Villa 3 - Barrio Fátima - 6,13873.321,
+669,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,2,,,Villa 3 - Barrio Fátima - 2,22450.644,
+670,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,5,,,Villa 3 - Barrio Fátima - 5,24829.469,
+671,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,3,,,Villa 3 - Barrio Fátima - 3,6683.577,
+672,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,3,,,Villa 3 - Barrio Fátima - 3,4447.577,
+673,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,Torre B,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación mínima de forma),,Villa 3 - Barrio Fátima - Torre B,2208.902,
+674,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,7,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación mínima de forma),,Villa 3 - Barrio Fátima - 7,8533.975,
+675,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,7,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación mínima de forma),,Villa 3 - Barrio Fátima - 7,4156.105,
+676,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,7 Dúplex,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación mínima de forma),,Villa 3 - Barrio Fátima - 7 Dúplex,2728.298,
+677,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,8,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación de forma),,Villa 3 - Barrio Fátima - 8,4312.148,
+678,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,9,Redigitalización por USIG en Enero 2017 según Datos de Catastro - Se dividió la Manzana de Villa 9 en estas distintas manzanas - ID USIG anterior: 3191,,Villa 3 - Barrio Fátima - 9,1495.532,
+679,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,Torres Homero 1 al 4,,,Villa 6 - Barrio Cildáñez - Torres Homero 1 al 4,4867.140,
+680,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,A,,,Villa 6 - Barrio Cildáñez - A,15987.980,
+681,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,B,,,Villa 6 - Barrio Cildáñez - B,18812.386,
+682,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,D1 102 I,Redigitalización (mínima) USIG Enero 2017 por Datos de Catastro,,Villa 6 - Barrio Cildáñez - D1 102 I,5504.770,
+683,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,D1 102 H,Redigitalización (mínima) USIG Enero 2017 por Datos de Catastro,,Villa 6 - Barrio Cildáñez - D1 102 H,5980.835,
+684,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,D2,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa D2 en estas distintas manzanas - ID USIG anterior: 3198,,Villa 6 - Barrio Cildáñez - D2,2515.068,
+685,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,D3,Redigitalización USIG Enero 2017 por Datos de Catastro,,Villa 6 - Barrio Cildáñez - D3,2551.384,
+686,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,D5,,,Villa 6 - Barrio Cildáñez - D5,10960.648,
+687,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,D4,,,Villa 6 - Barrio Cildáñez - D4,9969.586,
+688,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,C,,,Villa 6 - Barrio Cildáñez - C,13495.266,
+689,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,Torres Casco 5 al 8 y Zuviría 1 al 5 y 8 al 10,,,Villa 6 - Barrio Cildáñez - Torres Casco 5 al 8 y Zuviría 1 al 5 y 8 al 10,3444.721,
+690,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,Torres Casco 9 y 10,,,Villa 6 - Barrio Cildáñez - Torres Casco 9 y 10,4798.649,
+691,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,C,,,Villa 6 - Barrio Cildáñez - C,6118.126,
+692,Villa Calacita,Villa Calacita,Villas,2,,,Villa Calacita - 2,7809.819,
+693,Villa Calacita,Villa Calacita,Villas,1,,Calaza,Villa Calacita - 1,3486.348,
+694,Villa Piletones,Villa Piletones,Villas,8,,,Villa Piletones - 8,3262.340,
+695,Villa Piletones,Villa Piletones,Villas,7,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación de forma),,Villa Piletones - 7,1343.584,
+696,Villa Piletones,Villa Piletones,Villas,3,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación de forma),,Villa Piletones - 3,5612.397,
+697,Villa Piletones,Villa Piletones,Villas,2,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación de forma),,Villa Piletones - 2,4503.748,
+698,Villa Piletones,Villa Piletones,Villas,4,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación de forma),,Villa Piletones - 4,3963.505,
+699,Villa Piletones,Villa Piletones,Villas,9,,,Villa Piletones - 9,5322.932,
+700,Villa Piletones,Villa Piletones,Villas,5,Redigitalización por USIG en Enero 2017 según Datos de Catastro - Se dividió la Manzana de Villa 5 en estas distintas manzanas - ID USIG anterior: 3214,,Villa Piletones - 5,3324.074,
+701,Villa Piletones,Villa Piletones,Villas,6,Redigitalización por USIG en Enero de 2017 según Datos de Catastro (modificación de forma),,Villa Piletones - 6,4303.819,
+702,Villa Piletones,Villa Piletones,Villas,10,,,Villa Piletones - 10,6786.769,
+703,Villa Piletones,Villa Piletones,Villas,1,,,Villa Piletones - 1,4669.691,
+704,Villa 21-24,Villa 21-24,Villas,57,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 57 en estas distintas manzanas - ID USIG anterior: 3131,Barrio 21-24,Villa 21-24 - 57,6684.355,Villa 21-24
+705,Villa 21-24,Villa 21-24,Villas,57,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 57 en estas distintas manzanas - ID USIG anterior: 3131,Barrio 21-24,Villa 21-24 - 57,370.256,Villa 21-24
+706,Villa 21-24,Villa 21-24,Villas,57,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 57 en estas distintas manzanas - ID USIG anterior: 3131,Barrio 21-24,Villa 21-24 - 57,2047.094,Villa 21-24
+707,Villa 21-24,Villa 21-24,Villas,57,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 57 en estas distintas manzanas - ID USIG anterior: 3131,Barrio 21-24,Villa 21-24 - 57,3159.736,Villa 21-24
+708,Villa 21-24,Villa 21-24,Villas,57,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 57 en estas distintas manzanas - ID USIG anterior: 3131,Barrio 21-24,Villa 21-24 - 57,2346.738,Villa 21-24
+709,Villa 21-24,Villa 21-24,Villas,57,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 57 en estas distintas manzanas - ID USIG anterior: 3131,Barrio 21-24,Villa 21-24 - 57,678.038,Villa 21-24
+710,Villa 21-24,Villa 21-24,Villas,52 A,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 52A en estas distintas manzanas - ID USIG anterior: 3168 / En Mayo 2020 se reasignó nomenclatura con LETRA  según info y chequeo en el lugar. Antes era 52 A,Barrio 21-24,Villa 21-24 - 52 A,1048.355,El Ceibo
+711,Villa 21-24,Villa 21-24,Villas,52 C,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 52A en estas distintas manzanas - ID USIG anterior: 3168 / En Mayo 2020 se reasignó nomenclatura con LETRA  según info y chequeo en el lugar. Antes era 52 A,Barrio 21-24,Villa 21-24 - 52 C,1263.207,El Ceibo
+712,Villa 21-24,Villa 21-24,Villas,52 G,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 52A en estas distintas manzanas - ID USIG anterior: 3168 / En Mayo 2020 se reasignó nomenclatura con LETRA  según info y chequeo en el lugar. Antes era 52 A,Barrio 21-24,Villa 21-24 - 52 G,1060.482,El Ceibo
+713,Villa 21-24,Villa 21-24,Villas,52 H,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 52B en estas distintas manzanas - ID USIG anterior: 3128 / En Mayo 2020 se reasignó nomenclatura con LETRA según info y chequeo en el lugar. Antes era 52 B.,Barrio 21-24,Villa 21-24 - 52 H,1590.172,El Ceibo
+714,Villa 21-24,Villa 21-24,Villas,52 F,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 52B en estas distintas manzanas - ID USIG anterior: 3128 / En Mayo 2020 se reasignó nomenclatura con LETRA según info y chequeo en el lugar. Antes era 52 B.,Barrio 21-24,Villa 21-24 - 52 F,2170.765,El Ceibo
+715,Villa 21-24,Villa 21-24,Villas,52 B,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 52B en estas distintas manzanas - ID USIG anterior: 3128 / En Mayo 2020 se reasignó nomenclatura con LETRA según info y chequeo en el lugar. Antes era 52 B.,Barrio 21-24,Villa 21-24 - 52 B,3046.963,El Ceibo
+716,Villa 21-24,Villa 21-24,Villas,53 C,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 53 en estas distintas manzanas - ID USIG anterior: 3127 / En Mayo 2020 se agregó nomenclatura de Letra según revisión de datos y chequeo en zona de Villas,Barrio 21-24,Villa 21-24 - 53 C,2088.634,El Ceibo
+717,Villa 21-24,Villa 21-24,Villas,53 I,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 53 en estas distintas manzanas - ID USIG anterior: 3127 / En Mayo 2020 se agregó nomenclatura de Letra según revisión de datos y chequeo en zona de Villas,Barrio 21-24,Villa 21-24 - 53 I,617.973,El Ceibo
+718,Villa 21-24,Villa 21-24,Villas,53 J,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 53 en estas distintas manzanas - ID USIG anterior: 3127 / En Mayo 2020 se agregó nomenclatura de Letra según revisión de datos y chequeo en zona de Villas,Barrio 21-24,Villa 21-24 - 53 J,572.113,El Ceibo
+719,Villa 21-24,Villa 21-24,Villas,53 A,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 53 en estas distintas manzanas - ID USIG anterior: 3127 / En Mayo 2020 se agregó nomenclatura de Letra según revisión de datos y chequeo en zona de Villas,Barrio 21-24,Villa 21-24 - 53 A,1898.901,El Ceibo
+720,Villa 21-24,Villa 21-24,Villas,53 E,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 53 en estas distintas manzanas - ID USIG anterior: 3127 / En Mayo 2020 se agregó nomenclatura de Letra según revisión de datos y chequeo en zona de Villas,Barrio 21-24,Villa 21-24 - 53 E,2058.194,El Ceibo
+721,Villa 21-24,Villa 21-24,Villas,53 G,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 53 en estas distintas manzanas - ID USIG anterior: 3127 / En Mayo 2020 se agregó nomenclatura de Letra según revisión de datos y chequeo en zona de Villas,Barrio 21-24,Villa 21-24 - 53 G,2634.000,El Ceibo
+722,Villa 21-24,Villa 21-24,Villas,53 H,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 53 en estas distintas manzanas - ID USIG anterior: 3127 / En Mayo 2020 se agregó nomenclatura de Letra según revisión de datos y chequeo en zona de Villas,Barrio 21-24,Villa 21-24 - 53 H,1769.576,El Ceibo
+723,Villa 21-24,Villa 21-24,Villas,53 F,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 53 en estas distintas manzanas - ID USIG anterior: 3127 / En Mayo 2020 se agregó nomenclatura de Letra según revisión de datos y chequeo en zona de Villas,Barrio 21-24,Villa 21-24 - 53 F,1866.520,El Ceibo
+724,Villa 21-24,Villa 21-24,Villas,53 B,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 53 en estas distintas manzanas - ID USIG anterior: 3127 / En Mayo 2020 se agregó nomenclatura de Letra según revisión de datos y chequeo en zona de Villas,Barrio 21-24,Villa 21-24 - 53 B,1838.690,El Ceibo
+725,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,7 B,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 7B en estas distintas manzanas - ID USIG anterior: 3087,,Barrio INTA (ex Villa 19) - 7 B,761.644,
+726,Barrio INTA (ex Villa 19),Barrio INTA (ex Villa 19),Villas,3,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa 3 en estas distintas manzanas - ID USIG anterior: 3086,,Barrio INTA (ex Villa 19) - 3,3118.134,
+727,Villa 6 - Barrio Cildáñez,Villa 6 - Bo. Cildáñez,Villas,D2,Redigitalización USIG Enero 2017 por Datos de Catastro - Se dividió la Manzana de Villa D2 en estas distintas manzanas - ID USIG anterior: 3198,,Villa 6 - Barrio Cildáñez - D2,2701.623,
+728,Villa Piletones,Villa Piletones,Villas,5,Redigitalización por USIG en Enero 2017 según Datos de Catastro - Se dividió la Manzana de Villa 5 en estas distintas manzanas - ID USIG anterior: 3214,,Villa Piletones - 5,1144.694,
+729,Villa 3 - Barrio Fátima,Villa 3 - Bo. Fátima,Villas,9,Redigitalización por USIG en Enero 2017 según Datos de Catastro - Se dividió la Manzana de Villa 9 en estas distintas manzanas - ID USIG anterior: 3191,,Villa 3 - Barrio Fátima - 9,4300.192,
+730,Villa 20,Villa 20,Villas,1A,Todos estos registros eran Manzana 1 (Id_USIG 3117). Octubre 2018 se separan en distintas Manzanas 1 - Fuente DGEyC 2017,Barrio 20,Villa 20 - 1A,5443.792,
+731,Villa 20,Villa 20,Villas,1F,Todos estos registros eran Manzana 1 (Id_USIG 3117). Octubre 2018 se separan en distintas Manzanas 1 - Fuente DGEyC 2017,Barrio 20,Villa 20 - 1F,2918.836,
+732,Villa 20,Villa 20,Villas,1E,Todos estos registros eran Manzana 1 (Id_USIG 3117). Octubre 2018 se separan en distintas Manzanas 1 - Fuente DGEyC 2017,Barrio 20,Villa 20 - 1E,1801.434,
+733,Villa 20,Villa 20,Villas,1D,Todos estos registros eran Manzana 1 (Id_USIG 3117). Octubre 2018 se separan en distintas Manzanas 1 - Fuente DGEyC 2017,Barrio 20,Villa 20 - 1D,1588.496,
+734,Villa 20,Villa 20,Villas,1C,Todos estos registros eran Manzana 1 (Id_USIG 3117). Octubre 2018 se separan en distintas Manzanas 1 - Fuente DGEyC 2017,Barrio 20,Villa 20 - 1C,1628.131,
+735,Villa 20,Villa 20,Villas,1G,Todos estos registros eran Manzana 1 (Id_USIG 3117). Octubre 2018 se separan en distintas Manzanas 1 - Fuente DGEyC 2017,Barrio 20,Villa 20 - 1G,2814.927,
+736,Conjunto Habitacional Barrio Pirelli,CH Barrio Pirelli,Villas,6C,Manzanas Urbanizadas de la Villa 17 - Barrio Pirelli. Urbanización lindera a la Villa 17 Barrio Pirelli.Fuente DGESyC Julio de 2017.,,Conjunto Habitacional Barrio Pirelli - 6C,4489.685,
+737,Conjunto Habitacional Barrio Pirelli,CH Barrio Pirelli,Villas,6B,Manzanas Urbanizadas de la Villa 17 - Barrio Pirelli. Urbanización lindera a la Villa 17 Barrio Pirelli.Fuente DGESyC Julio de 2017.,,Conjunto Habitacional Barrio Pirelli - 6B,4459.498,
+738,Conjunto Habitacional Barrio Pirelli,CH Barrio Pirelli,Villas,6A,Manzanas Urbanizadas de la Villa 17 - Barrio Pirelli. Urbanización lindera a la Villa 17 Barrio Pirelli.Fuente DGESyC Julio de 2017.,,Conjunto Habitacional Barrio Pirelli - 6A,4918.957,
+739,Conjunto Habitacional Sector Riestra (ex Villa 1-11-14 - Barrio Padre Ricciardelli),CH Sector Riestra,Conjunto Habitacional,27 Sector N,Manzanas Urbanizadas de Villa agregadas en Noviembre 2018 según datos de DGESyC de Julio de 2017,Barrio 1-11-14 - Bajo Flores - Barrio Padre Ricciardelli,Conjunto Habitacional Sector Riestra- 27 Sector N,8549.900,Sector Riestra
+740,Conjunto Habitacional Sector Riestra (ex Villa 1-11-14 - Barrio Padre Ricciardelli),CH Sector Riestra,Conjunto Habitacional,27 Sector M,Manzanas Urbanizadas de Villa agregadas en Noviembre 2018 según datos de DGESyC de Julio de 2017,Barrio 1-11-14 - Bajo Flores - Barrio Padre Ricciardelli,Conjunto Habitacional Sector Riestra- 27 Sector M,3057.395,Sector Riestra
+741,Conjunto Habitacional Sector Riestra (ex Villa 1-11-14 - Barrio Padre Ricciardelli),CH Sector Riestra,Conjunto Habitacional,27 Sector M,Manzanas Urbanizadas de Villa agregadas en Noviembre 2018 según datos de DGESyC de Julio de 2017,Barrio 1-11-14 - Bajo Flores - Barrio Padre Ricciardelli,Conjunto Habitacional Sector Riestra- 27 Sector M,3558.521,Sector Riestra
+742,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,3W,Manzanas Urbanizadas de Villa agregadas en Noviembre 2018 según datos de DGESyC de Julio de 2017,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 3W,2713.932,
+743,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,3V,Manzanas Urbanizadas de Villa agregadas en Noviembre 2018 según datos de DGESyC de Julio de 2017,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 3V,1575.386,
+744,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,3T,Manzanas Urbanizadas de Villa agregadas en Noviembre 2018 según datos de DGESyC de Julio de 2017,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 3T,948.431,
+745,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,3U,Manzanas Urbanizadas de Villa agregadas en Noviembre 2018 según datos de DGESyC de Julio de 2017,Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 3U,743.693,
+746,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,798.486,
+747,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,902.622,
+748,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,885.838,
+749,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,1794.220,
+750,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,888.556,
+751,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,926.796,
+752,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,1712.100,
+753,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,1716.703,
+754,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,1419.703,
+755,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,1851.418,
+756,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,979.527,
+757,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,918.081,
+758,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,1020.434,
+759,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,952.890,
+760,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,876.648,
+761,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,1914.922,
+762,Barrio Piletones,Bo. Piletones,Barrio Urbanizado,,,,Barrio Piletones,6764.294,
+763,CMV ex-Villa 20,CMV ex-Villa 20,Villas,Edificios B,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20,,CMV ex-Villa 20 - Edificios B,2049.083,
+764,CMV ex-Villa 20,CMV ex-Villa 20,Villas,Módulo A1,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20,,CMV ex-Villa 20 - Módulo A1,1880.177,
+765,CMV ex-Villa 20,CMV ex-Villa 20,Villas,Mza s/n,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20,,CMV ex-Villa 20 - Mza s/n,4402.702,
+766,CMV ex-Villa 20,CMV ex-Villa 20,Villas,Mza s/n,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20,,CMV ex-Villa 20 - Mza s/n,10355.433,
+767,CMV ex-Villa 20,CMV ex-Villa 20,Villas,Edificios A,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20,,CMV ex-Villa 20 - Edificios A,1868.555,
+768,CMV ex-Villa 20,CMV ex-Villa 20,Villas,Módulo B1,Complejo de Edificios y Casas humildes y precarias linderas a la Villa 20,,CMV ex-Villa 20 - Módulo B1,1728.668,
+769,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,,Registro agregado en Abril de 2020 al comprobar existencia de viviendas en el mismo formato que las otras Tiras. Nombres  de Tiras comprobados en las chapas de viviendas. No se pudo comprbar nombre de la Tira,Zavaleta,NHT Zavaleta,755.233,
+770,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 12,Registro agregado en Abril de 2020 al comprobar existencia de viviendas en el mismo formato que las otras Tiras. Nombres  de Tiras comprobados en las chapas de viviendas,Zavaleta,NHT Zavaleta - Tira 12,1179.591,
+771,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 14,Registro agregado en Abril de 2020 al comprobar existencia de viviendas en el mismo formato que las otras Tiras. Nombres  de Tiras comprobados en las chapas de viviendas,Zavaleta,NHT Zavaleta - Tira 14,1163.497,
+772,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 16,Registro agregado en Abril de 2020 al comprobar existencia de viviendas en el mismo formato que las otras Tiras. Nombres  de Tiras comprobados en las chapas de viviendas,Zavaleta,NHT Zavaleta - Tira 16,1303.403,
+773,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 18,Registro agregado en Abril de 2020 al comprobar existencia de viviendas en el mismo formato que las otras Tiras. Nombres  de Tiras comprobados en las chapas de viviendas,Zavaleta,NHT Zavaleta - Tira 18,2945.278,
+774,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 15,Registro agregado en Abril de 2020 al comprobar existencia de viviendas en el mismo formato que las otras Tiras. Nombres  de Tiras comprobados en las chapas de viviendas,Zavaleta,NHT Zavaleta - Tira 15,994.539,
+775,NHT Zavaleta,NHT Zavaleta,Nùcleos Habitacionales Transitorios,Tira 17,Registro agregado en Abril de 2020 al comprobar existencia de viviendas en el mismo formato que las otras Tiras. Nombres  de Tiras comprobados en las chapas de viviendas,Zavaleta,NHT Zavaleta - Tira 17,937.720,
+776,Asentamiento El pueblito,Asent. El pueblito,Asentamientos precarios,,,,Asentamiento El pueblito,3371.915,
+777,Asentamiento Bosch,Asent. Bosch,Asentamientos precarios,,Agregado y diferenciado del Asentamiento de enfrente,,Asentamiento Bosch,871.608,
+778,Barrio Rodrigo Bueno,Bo. Rodrigo Bueno,Barrio Urbanizado,,Urbanización de Villa/Asentamiento Rodrigo Bueno en Edificios nuevos,,Barrio Rodrigo Bueno,50166.714,
+779,Barrio Papa Francisco,Bo. Papa Francisco,Barrio Urbanizado,,Urbanizaciòn Villa 20,,Barrio Papa Francisco,100374.793,
+780,Barrio Olìmpico,Bo. Olìmpico,Barrio Urbanizado,,Barrio Villa Olímpica 2018 destinado a viviendas,Villa Olímpica,Barrio Olìmpico,154279.421,
+781,Urbanización Barrio Fraga,Bo. Fraga,Barrio Urbanizado,,Urbanización del Barrio Fraga con edificios nuevos (2019-2020),,Urbanización Barrio Fraga,15743.084,
+782,Asentamiento Lamadrid,Asent. Lamadrid,Asentamientos precarios,,"Antes se llamaba Suárez y Pedro de Mendoza. Se unificó todo en Asentamiento Lamadrid: Lamadrid, El Triángulo y Suárez y Pedro de Mendoza (mza del Norte)",Asentamiento Suárez y Pedro de Mendoza,Asentamiento Lamadrid,3034.188,
+783,Villa 31,Villa 31,Villas,NO HAY VIVIENDAS,,Barrio 31 - Barrio Padre Mugica,Villa 31 - NO HAY VIVIENDAS,4145.043,
+784,Villa 31,Villa 31,Villas,15,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 15,1306.397,Guemes
+785,Villa 31,Villa 31,Villas,1,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 1,1828.769,Guemes
+786,Villa 31,Villa 31,Villas,6,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 6,3416.653,Guemes
+787,Villa 31,Villa 31,Villas,2,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 2,2101.991,Guemes
+788,Villa 31,Villa 31,Villas,3,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 3,1851.336,Guemes
+789,Villa 31,Villa 31,Villas,10,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 10,1800.999,Guemes
+790,Villa 31,Villa 31,Villas,9,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 9,3136.094,Guemes
+791,Villa 31,Villa 31,Villas,32A,"Modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Antes Mza 32, pasó a ser 32A",Barrio 31 - Barrio Padre Mugica,Villa 31 - 32A,2720.295,YPF
+792,Villa 31,Villa 31,Villas,32,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 32,2457.348,YPF
+793,Villa 31,Villa 31,Villas,24,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 24,3816.378,YPF
+794,Villa 31,Villa 31,Villas,26,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 26,2265.339,YPF
+795,Villa 31,Villa 31,Villas,22,Redigitalización y modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Unión de sectores de manzana 22,Barrio 31 - Barrio Padre Mugica,Villa 31 - 22,11651.430,YPF
+796,Villa 31,Villa 31,Villas,25 BIS,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 25 BIS,3002.849,YPF
+797,Villa 31,Villa 31,Villas,33,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 33,1426.367,YPF
+798,Villa 31,Villa 31,Villas,23,"Modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Antes Mza 23H y 23 I, pasó a ser 23 y tomó parte de la 33",Barrio 31 - Barrio Padre Mugica,Villa 31 - 23,4472.078,YPF
+799,Villa 31,Villa 31,Villas,29A,"Modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Antes Mza 29, pasó a ser 29A",Barrio 31 - Barrio Padre Mugica,Villa 31 - 29A,4789.135,Comunicaciones
+800,Villa 31,Villa 31,Villas,29,"Modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Antes Mza 28, pasó a ser 29",Barrio 31 - Barrio Padre Mugica,Villa 31 - 29,766.586,Comunicaciones
+801,Villa 31,Villa 31,Villas,19,Modificación de nombre y redigitalización en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Antes Mza 18 y con otra digitalización. Se unió sector con Mza 15B lindera,Barrio 31 - Barrio Padre Mugica,Villa 31 - 19,777.931,Guemes
+802,Villa 31,Villa 31,Villas,21B,Redigitalización y modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Separación de sectores unidos,Barrio 31 - Barrio Padre Mugica,Villa 31 - 21B,3305.071,Inmigrantes
+803,Villa 31,Villa 31,Villas,20,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 20,1088.635,Guemes
+804,Villa 31,Villa 31,Villas,18,Redigitalización en Mayo 2020 en base a info de Min. Desarrollo Humano y Hábitat. Unión de mzas 18 y 19,Barrio 31 - Barrio Padre Mugica,Villa 31 - 18,3016.315,Guemes
+805,Villa 31,Villa 31,Villas,12,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 12,2664.067,Guemes
+806,Villa 31,Villa 31,Villas,14,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 14,2585.819,Guemes
+807,Villa 31,Villa 31,Villas,13,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 13,3664.714,Guemes
+808,Villa 31,Villa 31,Villas,16,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 16,809.893,Guemes
+809,Villa 31,Villa 31,Villas,11,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 11,2646.412,Guemes
+810,Villa 31,Villa 31,Villas,27,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 27,3799.155,YPF
+811,Villa 31,Villa 31,Villas,4,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 4,1173.514,Guemes
+812,Villa 31,Villa 31,Villas,8,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 8,2605.226,Guemes
+813,Villa 31,Villa 31,Villas,23A,"Modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Antes Mza 23, pasó a ser 23A",Barrio 31 - Barrio Padre Mugica,Villa 31 - 23A,3631.958,YPF
+814,Villa 31,Villa 31,Villas,5,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 5,4552.402,Guemes
+815,Villa 31,Villa 31,Villas,25,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 25,3372.606,YPF
+816,Villa 31,Villa 31,Villas,CANCHA DE FÚTBOL - MZA 32,,Barrio 31 - Barrio Padre Mugica,Villa 31 - CANCHA DE FÚTBOL - MZA 32,1316.672,YPF
+817,Villa 31,Villa 31,Villas,ESPACIO VERDE - MZA 33,,Barrio 31 - Barrio Padre Mugica,Villa 31 - ESPACIO VERDE - MZA 33,970.163,YPF
+818,Villa 31,Villa 31,Villas,ESPACIO VERDE - MZA 25,,Barrio 31 - Barrio Padre Mugica,Villa 31 - ESPACIO VERDE - MZA 25,605.333,YPF
+819,Villa 31,Villa 31,Villas,17,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 17,3766.358,Guemes
+820,Villa 31,Villa 31,Villas,ESPACIO VERDE - MZA 20,,Barrio 31 - Barrio Padre Mugica,Villa 31 - ESPACIO VERDE - MZA 20,2553.719,Guemes
+821,Villa 31,Villa 31,Villas,7,"Unión de manzanas 7 en Mayo de 2020. Los dos polígonos pegados compartían el dato de manzana y se unieron. Además, se constató en otra fuente que eran una misma manzana.",Barrio 31 - Barrio Padre Mugica,Villa 31 - 7,4975.909,Guemes
+822,Villa 31,Villa 31,Villas,ESPACIO VERDE - MZA 27,,Barrio 31 - Barrio Padre Mugica,Villa 31 - ESPACIO VERDE - MZA 27,3133.383,YPF
+823,Villa 31,Villa 31,Villas,21C,Redigitalización y modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat.,Barrio 31 - Barrio Padre Mugica,Villa 31 - 21C,3684.618,Inmigrantes
+824,Villa 31,Villa 31,Villas,LA TOMA,Sector agregado en Mayo 2020 en base a información de la Villa y confirmación porfotografía aérea.,Barrio 31 - Barrio Padre Mugica,Villa 31 - LA TOMA,775.521,Comunicaciones
+825,Villa 31,Villa 31,Villas,28 BIS,Manzana agregada en Mayo 2020 en base a información del Barrio y confirmada por fotografìa aèrea. Nombres asignados por Atenciòn Ciudadana,Barrio 31 - Barrio Padre Mugica,Villa 31 - 28 BIS,1003.878,Comunicaciones
+826,Villa 31,Villa 31,Villas,28B,Manzana agregada en Mayo 2020 en base a información del Barrio y confirmada por fotografìa aèrea. Nombres asignados por Atenciòn Ciudadana,Barrio 31 - Barrio Padre Mugica,Villa 31 - 28B,301.577,Comunicaciones
+827,Villa 31,Villa 31,Villas,28,,Barrio 31 - Barrio Padre Mugica,Villa 31 - 28,4992.417,Comunicaciones
+828,Villa 31,Villa 31,Villas,28A,Redigitalización y Modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Antes era parte de la Mza 28 lindante,Barrio 31 - Barrio Padre Mugica,Villa 31 - 28A,1136.545,Comunicaciones
+829,Villa 31,Villa 31,Villas,15 BIS,Redigitalizacoón en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat,Barrio 31 - Barrio Padre Mugica,Villa 31 - 15 BIS,1743.755,Autopista
+830,Villa 31,Villa 31,Villas,21A,Redigitalización y modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Separación de sectores unidos,Barrio 31 - Barrio Padre Mugica,Villa 31 - 21A,2529.155,Inmigrantes
+831,Villa 31 bis,Villa 31 bis,Villas,2,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 2,2428.641,Playón Este
+832,Villa 31 bis,Villa 31 bis,Villas,10A,Redigitalización en Mayo de 2020 en base a info del Min. de Desarrollo Humano y Hábitat. Se separó de la mza 105C lindera y se asignó nombre Mza 10A cuando antes era 99,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 10A,1046.052,Playón Este
+833,Villa 31 bis,Villa 31 bis,Villas,103A,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 103A,1534.333,Playón Oeste
+834,Villa 31 bis,Villa 31 bis,Villas,103,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 103,3160.627,Playón Oeste
+835,Villa 31 bis,Villa 31 bis,Villas,100,Redigitalización en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 100,1062.993,Playón Oeste
+836,Villa 31 bis,Villa 31 bis,Villas,3A,"Modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Antes Mza 3, pasó a ser 3A",Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 3A,2552.116,Playón Oeste
+837,Villa 31 bis,Villa 31 bis,Villas,8,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 8,6456.377,Ferroviario
+838,Villa 31 bis,Villa 31 bis,Villas,4,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 4,2890.423,Playón Oeste
+839,Villa 31 bis,Villa 31 bis,Villas,100,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 100,2904.456,Playón Oeste
+840,Villa 31 bis,Villa 31 bis,Villas,100 BIS,Redigitalización en Mayo 2020 en base a info Min. Desarrollo Humano y Hábitat,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 100 BIS,1457.797,Ferroviario
+841,Villa 31 bis,Villa 31 bis,Villas,104D,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Unión de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 104D,2759.560,Ferroviario
+842,Villa 31 bis,Villa 31 bis,Villas,9A,Modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat.,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 9A,2866.203,Ferroviario
+843,Villa 31 bis,Villa 31 bis,Villas,12,Redigitalización en Mayo de 2020. Unión de sectores en base a info del Min. Desarrollo Humano y Hábitat,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 12,3076.632,Cristo Obrero
+844,Villa 31 bis,Villa 31 bis,Villas,99E,Modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Redigitalización y unión con sector lindero de mismo nombre que antes era 102,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 99E,3111.446,Playón Este
+845,Villa 31 bis,Villa 31 bis,Villas,99F,Modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 99F,2529.044,Playón Este
+846,Villa 31 bis,Villa 31 bis,Villas,102,Redigitalización en Mayo de 2020 en base a info del Min. de Desarrollo Humano y Hábitat. Se separó del sector lindero que se le asignó mza 107A,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 102,4030.821,Playón Este
+847,Villa 31 bis,Villa 31 bis,Villas,10,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 10,5566.752,Playón Este
+848,Villa 31 bis,Villa 31 bis,Villas,3B,"Modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Antes Mza 3, pasó a ser 3B",Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 3B,900.784,Playón Oeste
+849,Villa 31 bis,Villa 31 bis,Villas,GALPÓN 2,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - GALPÓN 2,2230.951,Playón Oeste
+850,Villa 31 bis,Villa 31 bis,Villas,12B,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Unión de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 12B,1639.246,Cristo Obrero
+851,Villa 31 bis,Villa 31 bis,Villas,104,Redigitalización en Mayo 2020 en base a info Min. Desarrollo Humano y Hábitat. Unión de sectores,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 104,5666.782,Cristo Obrero
+852,Villa 31 bis,Villa 31 bis,Villas,12C,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Unión de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 12C,3005.977,Cristo Obrero
+853,Villa 31 bis,Villa 31 bis,Villas,14,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 14,1549.126,Cristo Obrero
+854,Villa 31 bis,Villa 31 bis,Villas,14A,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación y unión de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 14A,6968.625,Cristo Obrero
+855,Villa 31 bis,Villa 31 bis,Villas,34,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 34,2264.218,Autopista
+856,Villa 31 bis,Villa 31 bis,Villas,33A,"Modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Antes Mza 33, pasó a ser 33A",Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 33A,3046.917,Autopista
+857,Villa 31 bis,Villa 31 bis,Villas,36,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 36,1517.110,Autopista
+858,Villa 31 bis,Villa 31 bis,Villas,15 BIS,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 15 BIS,877.294,Autopista
+859,Villa 31 bis,Villa 31 bis,Villas,107,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 107,1500.642,Playón Este
+860,Villa 31 bis,Villa 31 bis,Villas,13,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 13,2887.267,Cristo Obrero
+861,Villa 31 bis,Villa 31 bis,Villas,7,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 7,6857.855,Ferroviario
+862,Villa 31 bis,Villa 31 bis,Villas,1A,"Modificación del nombre de Mza en Mayo 2020 según información del Min. de Desarrollo Humano y Hábitat. Antes Mza 1, pasó a ser 1A",Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 1A,2495.837,Playón Este
+863,Villa 31 bis,Villa 31 bis,Villas,12A,Redigitalización y modificación de nombre en Mayo 2020 en base a info Min. Desarrollo Humano y Hábitat,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 12A,3884.735,Cristo Obrero
+864,Villa 31 bis,Villa 31 bis,Villas,104C,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación y unión de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 104C,272.281,Cristo Obrero
+865,Villa 31 bis,Villa 31 bis,Villas,GALPÓN 1,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - GALPÓN 1,1975.464,Playón Oeste
+866,Villa 31 bis,Villa 31 bis,Villas,101,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 101,2299.677,Playón Oeste
+867,Villa 31 bis,Villa 31 bis,Villas,100A,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 100A,1175.037,Playón Oeste
+868,Villa 31 bis,Villa 31 bis,Villas,99B,Modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 99B,1134.182,Playón Este
+869,Villa 31 bis,Villa 31 bis,Villas,GALPÓN,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - GALPÓN,1812.438,Playón Oeste
+870,Villa 31 bis,Villa 31 bis,Villas,3,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 3,2907.562,Playón Oeste
+871,Villa 31 bis,Villa 31 bis,Villas,6,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 6,3464.090,Ferroviario
+872,Villa 31 bis,Villa 31 bis,Villas,14B,Modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat.,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 14B,3476.046,Cristo Obrero
+873,Villa 31 bis,Villa 31 bis,Villas,99A,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat.,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 99A,2429.272,Playón Este
+874,Villa 31 bis,Villa 31 bis,Villas,115,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 115,5322.123,San Martín
+875,Villa 31 bis,Villa 31 bis,Villas,109,Redigitalización en Mayo de 2020 en base a info del Min. de Desarrollo Humano y Hábitat. Se separó de la mza 1 lindera,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 109,2237.304,San Martín
+876,Villa 31 bis,Villa 31 bis,Villas,116,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 116,2738.810,San Martín
+877,Villa 31 bis,Villa 31 bis,Villas,113,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 113,588.958,San Martín
+878,Villa 31 bis,Villa 31 bis,Villas,112,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 112,3000.444,San Martín
+879,Villa 31 bis,Villa 31 bis,Villas,114,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 114,2919.643,San Martín
+880,Villa 31 bis,Villa 31 bis,Villas,118,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 118,1947.587,San Martín
+881,Villa 31 bis,Villa 31 bis,Villas,117,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 117,2969.118,San Martín
+882,Villa 31 bis,Villa 31 bis,Villas,108,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 108,3065.888,San Martín
+883,Villa 31 bis,Villa 31 bis,Villas,110,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 110,1249.741,San Martín
+884,Villa 31 bis,Villa 31 bis,Villas,13A,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 13A,1511.566,Cristo Obrero
+885,Villa 31 bis,Villa 31 bis,Villas,111,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 111,1617.988,San Martín
+886,Villa 31 bis,Villa 31 bis,Villas,35,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 35,75.810,Autopista
+887,Villa 31 bis,Villa 31 bis,Villas,35,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 35,1458.885,Autopista
+888,Villa 31 bis,Villa 31 bis,Villas,35,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 35,1409.775,Autopista
+889,Villa 31 bis,Villa 31 bis,Villas,15 BIS,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 15 BIS,306.254,Autopista
+890,Villa 31 bis,Villa 31 bis,Villas,100BIS A,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación y unión de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 100BIS A,1991.064,Ferroviario
+891,Villa 31 bis,Villa 31 bis,Villas,4A,Modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat.,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 4A,2086.638,Playón Oeste
+892,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE - MZA 100,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE - MZA 100,352.933,Playón Oeste
+893,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE,433.646,Playón Oeste
+894,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE - MZA 5,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE - MZA 5,968.507,Ferroviario
+895,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE - MZA 7,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE - MZA 7,304.672,Ferroviario
+896,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE - MZA 11,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE - MZA 11,638.073,Ferroviario
+897,Villa 31 bis,Villa 31 bis,Villas,9,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 9,1877.620,Ferroviario
+898,Villa 31 bis,Villa 31 bis,Villas,5,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 5,6291.054,Ferroviario
+899,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE - MZA 99,Redigitalización en Mayo 2020 en base a info Min. Desarrollo Humano y Hábitat,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE - MZA 99,641.620,Playón Este
+900,Villa 31 bis,Villa 31 bis,Villas,11,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 11,7216.943,Cristo Obrero
+901,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE - MZA 11,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE - MZA 11,135.007,Cristo Obrero
+902,Villa 31 bis,Villa 31 bis,Villas,12,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 12,548.689,Cristo Obrero
+903,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE - MZA 14,"En el Barrio de Villa figuraba ""Comunicaciones"" pero se modificó a ""cristo Obrero"" por parecer que pertenecía a ese Barrio y no al otro que está alejado.",Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE - MZA 14,250.342,Cristo Obrero
+904,Villa 31 bis,Villa 31 bis,Villas,104A,Redigitalización y modificación de nombre en Mayo 2020 en base a info Min. Desarrollo Humano y Hábitat. Unión de sectores,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 104A,4250.655,Cristo Obrero
+905,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE GALPÓN,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE GALPÓN,779.067,Playón Oeste
+906,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE,751.198,Playón Oeste
+907,Villa 31 bis,Villa 31 bis,Villas,ESPACIO VERDE - MZA 13,,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - ESPACIO VERDE - MZA 13,1078.920,Cristo Obrero
+908,Villa 31 bis,Villa 31 bis,Villas,1,Redigitalización en Mayo de 2020 en base a info del Min. de Desarrollo Humano y Hábitat. Se separó de la mza 109 lindera y se asignó nombre Mza 1,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 1,1511.400,San Martín
+909,Villa 31 bis,Villa 31 bis,Villas,108A,Redigitalización en Mayo de 2020 en base a info del Min. de Desarrollo Humano y Hábitat. Se separó de la mza 108 lindera y se asignó nombre Mza 108A,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 108A,284.129,San Martín
+910,Villa 31 bis,Villa 31 bis,Villas,107A,Redigitalización en Mayo de 2020 en base a info del Min. de Desarrollo Humano y Hábitat. Se separó de la mza 102 lindera y se asignó nombre Mza 107A,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 107A,500.408,Playón Este
+911,Villa 31 bis,Villa 31 bis,Villas,105C,Redigitalización en Mayo de 2020 en base a info del Min. de Desarrollo Humano y Hábitat. Se separó de la mza 10A lindera y se asignó nombre Mza 105C cuando antes era 99,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 105C,773.418,Playón Este
+912,Villa 31 bis,Villa 31 bis,Villas,105D,Modificación de Nombre en Mayo 2020 en base a info Min. Desarrollo Humano y Hábitat. Antes Mza 102,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 105D,484.491,Playón Este
+913,Villa 31 bis,Villa 31 bis,Villas,99B,Redigitalización en Mayo de 2020 en base a info del Min. Desarrollo Humano y Hábitat. Antes Mzaa 99 y 102 se unieron en 99B,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 99B,1142.278,Playón Este
+914,Villa 31 bis,Villa 31 bis,Villas,105E,Redigitalización y Modificación de nombre en Mayo 2020 en base a info Min. Desarrollo Humano y Hábitat. Antes Mza 102 ahora Mza 105E,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 105E,319.540,Playón Este
+915,Villa 31 bis,Villa 31 bis,Villas,102A,Agregado de sector de Villa y Manzana en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 102A,278.596,Playón Este
+916,Villa 31 bis,Villa 31 bis,Villas,105B,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Se separaron muchos sectores del que era una misma manzana,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 105B,424.819,Playón Este
+917,Villa 31 bis,Villa 31 bis,Villas,105,Redigitaliación en Mayo 2020 en base a info del Min. Desarrollo Humano y Hàbitat. Mantuvo el nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 105,204.184,Playón Este
+918,Villa 31 bis,Villa 31 bis,Villas,99D,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Se separaron varios sectores de una misma manzana,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 99D,257.232,Playón Este
+919,Villa 31 bis,Villa 31 bis,Villas,99C,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Se separaron varios sectores de una misma manzana,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 99C,397.340,Playón Este
+920,Villa 31 bis,Villa 31 bis,Villas,99D,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Se separaron varios sectores de una misma manzana,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 99D,640.785,Playón Este
+921,Villa 31 bis,Villa 31 bis,Villas,105A,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Se separaron varios sectores de una misma manzana,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 105A,513.364,Playón Este
+922,Villa 31 bis,Villa 31 bis,Villas,99,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Se separaron varios sectores de una misma manzana,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 99,194.146,Playón Este
+923,Villa 31 bis,Villa 31 bis,Villas,99C,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Se separaron varios sectores de una misma manzana,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 99C,481.804,Playón Este
+924,Villa 31 bis,Villa 31 bis,Villas,101B,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat.,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 101B,1559.085,Playón Oeste
+925,Villa 31 bis,Villa 31 bis,Villas,103B,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat.,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 103B,535.406,Playón Oeste
+926,Villa 31 bis,Villa 31 bis,Villas,101A,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Se separaron varios sectores de una misma manzana,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 101A,892.306,Playón Oeste
+927,Villa 31 bis,Villa 31 bis,Villas,106A,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 106A,408.209,Playón Oeste
+928,Villa 31 bis,Villa 31 bis,Villas,106,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 106,474.750,Playón Oeste
+929,Villa 31 bis,Villa 31 bis,Villas,104B,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación y unión de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 104B,186.995,Cristo Obrero
+930,Villa 31 bis,Villa 31 bis,Villas,13B,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 13B,291.826,Cristo Obrero
+931,Villa 31 bis,Villa 31 bis,Villas,11A,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 11A,1984.624,Cristo Obrero
+932,Villa 31 bis,Villa 31 bis,Villas,14C,Redigitalización y modificación de nombre en Mayo 2020 en base a info del Min. Desarrollo Humano y Hábitat. Separación y unión de sectores y cambio de nombre,Barrio 31 Bis - Barrio Padre Mugica,Villa 31 bis - 14C,299.132,Cristo Obrero
+933,La Containera - Nuevo Barrio 31,La Containera - Nuevo Barrio 31,Barrio Urbanizado,,Barrio urbanizado en containers. Creado en 2018 y 2019. Urbanización Villa 31,,La Containera - Nuevo Barrio 31,3286.580,
+934,La Containera - Nuevo Barrio 31,La Containera - Nuevo Barrio 31,Barrio Urbanizado,,Barrio urbanizado en containers. Creado en 2018 y 2019. Urbanización Villa 31,,La Containera - Nuevo Barrio 31,5198.650,
+935,La Containera - Nuevo Barrio 31,La Containera - Nuevo Barrio 31,Barrio Urbanizado,,Barrio urbanizado en containers. Creado en 2018 y 2019. Urbanización Villa 31,,La Containera - Nuevo Barrio 31,4419.485,
+936,La Containera - Nuevo Barrio 31,La Containera - Nuevo Barrio 31,Barrio Urbanizado,,Barrio urbanizado en containers. Creado en 2018 y 2019. Urbanización Villa 31,,La Containera - Nuevo Barrio 31,3358.360,
+937,La Containera - Nuevo Barrio 31,La Containera - Nuevo Barrio 31,Barrio Urbanizado,,Barrio urbanizado en containers. Creado en 2018 y 2019. Urbanización Villa 31,,La Containera - Nuevo Barrio 31,5228.404,
+938,La Containera - Nuevo Barrio 31,La Containera - Nuevo Barrio 31,Barrio Urbanizado,,Barrio urbanizado en containers. Creado en 2018 y 2019. Urbanización Villa 31,,La Containera - Nuevo Barrio 31,4288.168,
+939,La Containera - Nuevo Barrio 31,La Containera - Nuevo Barrio 31,Barrio Urbanizado,,Barrio urbanizado en containers. Creado en 2018 y 2019. Urbanización Villa 31,,La Containera - Nuevo Barrio 31,4304.316,
+940,La Containera - Nuevo Barrio 31,La Containera - Nuevo Barrio 31,Barrio Urbanizado,,Barrio urbanizado en containers. Creado en 2018 y 2019. Urbanización Villa 31,,La Containera - Nuevo Barrio 31,4290.494,
+941,La Containera - Nuevo Barrio 31,La Containera - Nuevo Barrio 31,Barrio Urbanizado,,Barrio urbanizado en containers. Creado en 2018 y 2019. Urbanización Villa 31,,La Containera - Nuevo Barrio 31,4764.415,
+942,Barrio Estación Buenos Aires,Bo. Est. Buenos Aires,Barrio Urbanizado,,Barrio de viviendas con créditos orientados a familias de vivienda única inaugurado en 2018-2019 sobre ex tierras del FFCC,,Barrio Estación Buenos Aires,196625.017,
+943,Villa 1-11-14 - Barrio Padre Ricciardelli,Villa 1-11-14 - Bo. Padre Ricciardelli,Villas,48,Asignación de Nombre Oficial Barrio Padre Ricciardelli según Resolución Comunal Nº 4931426/COMUNA7/13 aparecida en el Boletín Oficial 4275 del 08/11/2013 - Manzana agregada según info del Min Desarrollo Humano y Habitat (Mayo 2020),Barrio 1-11-14 - Bajo Flores,Villa 1-11-14 - Barrio Padre Ricciardelli - 48,2744.636,
+944,Villa 20,Villa 20,Villas,19,Manzana agregada en Mayo de 2020 según info del Min. de Desarrollo Humano y Hábitat.,Barrio 20,Villa 20 - 19,1199.527,
+945,Villa 21-24,Villa 21-24,Villas,Alegre Pavimento 9,Redigitalización y reasignación de nomenclatura en Mayo 2020 en base a info enviada por Min. Desarrollo Humano y Hábitat. Antes toda la manzana era Alegre Pavimento. Fragmentación de sectores. Comprobación en foto aérea,Barrio 21-24,Villa 21-24 - Alegre Pavimento 9,47450.972,Alegre Pavimento
+946,Villa 21-24,Villa 21-24,Villas,Alegre Pavimento 7,Redigitalización y reasignación de nomenclatura en Mayo 2020 en base a info enviada por Min. Desarrollo Humano y Hábitat. Antes toda la manzana era Alegre Pavimento. Fragmentación de sectores. Comprobación en foto aérea,Barrio 21-24,Villa 21-24 - Alegre Pavimento 7,47450.972,Alegre Pavimento
+947,Villa 21-24,Villa 21-24,Villas,Alegre Pavimento 6,Redigitalización y reasignación de nomenclatura en Mayo 2020 en base a info enviada por Min. Desarrollo Humano y Hábitat. Antes toda la manzana era Alegre Pavimento. Fragmentación de sectores. Comprobación en foto aérea,Barrio 21-24,Villa 21-24 - Alegre Pavimento 6,47450.972,Alegre Pavimento
+948,Villa 21-24,Villa 21-24,Villas,Alegre Pavimento 4,Redigitalización y reasignación de nomenclatura en Mayo 2020 en base a info enviada por Min. Desarrollo Humano y Hábitat. Antes toda la manzana era Alegre Pavimento. Fragmentación de sectores. Comprobación en foto aérea,Barrio 21-24,Villa 21-24 - Alegre Pavimento 4,47450.972,Alegre Pavimento
+949,Villa 21-24,Villa 21-24,Villas,Alegre Pavimento 2,Redigitalización y reasignación de nomenclatura en Mayo 2020 en base a info enviada por Min. Desarrollo Humano y Hábitat. Antes toda la manzana era Alegre Pavimento. Fragmentación de sectores. Comprobación en foto aérea,Barrio 21-24,Villa 21-24 - Alegre Pavimento 2,47450.972,Alegre Pavimento
+950,Villa 21-24,Villa 21-24,Villas,Alegre Pavimento 1,Redigitalización y reasignación de nomenclatura en Mayo 2020 en base a info enviada por Min. Desarrollo Humano y Hábitat. Antes toda la manzana era Alegre Pavimento. Fragmentación de sectores. Comprobación en foto aérea,Barrio 21-24,Villa 21-24 - Alegre Pavimento 1,47450.972,Alegre Pavimento
+951,Villa 21-24,Villa 21-24,Villas,Alegre Pavimento 3,Redigitalización y reasignación de nomenclatura en Mayo 2020 en base a info enviada por Min. Desarrollo Humano y Hábitat. Antes toda la manzana era Alegre Pavimento. Fragmentación de sectores. Comprobación en foto aérea,Barrio 21-24,Villa 21-24 - Alegre Pavimento 3,47450.972,Alegre Pavimento
+952,Villa 21-24,Villa 21-24,Villas,Alegre Pavimento 5,Redigitalización y reasignación de nomenclatura en Mayo 2020 en base a info enviada por Min. Desarrollo Humano y Hábitat. Antes toda la manzana era Alegre Pavimento. Fragmentación de sectores. Comprobación en foto aérea,Barrio 21-24,Villa 21-24 - Alegre Pavimento 5,47450.972,Alegre Pavimento
+953,Villa 21-24,Villa 21-24,Villas,Alegre Pavimento 8,Redigitalización y reasignación de nomenclatura en Mayo 2020 en base a info enviada por Min. Desarrollo Humano y Hábitat. Antes toda la manzana era Alegre Pavimento. Fragmentación de sectores. Comprobación en foto aérea,Barrio 21-24,Villa 21-24 - Alegre Pavimento 8,47450.972,Alegre Pavimento
+954,Villa 21-24,Villa 21-24,Villas,28 BIS,Redigitalización y reasignación de nombre segùn datos enviados del Min Desarrollo Humano y Hábitat. Antes sector de la Mza 28. Modificación de nombre de Barrio Interno en Junio 2020 segùn Datos de DG Estadística y Censos (antes Villa 24),Barrio 21-24,Villa 21-24 - 28 BIS,7558.510,Tres Rosas (ex Villa 24)
+955,Villa 21-24,Villa 21-24,Villas,San Blas 4,Redigitalizaciòn en Mayo y Junio 2020 en base a info enviada por IVC y chequeada en foto aèrea. División de sectores. Modificaciòn nomenclatura: antes Manzana 51 Sector A y B,Barrio 21-24,Villa 21-24 - San Blas 4,17933.928,San Blas
+956,Villa 21-24,Villa 21-24,Villas,Loma Alegre 9,Redigitalización en Junio de 2020 en el Sector Loma  Alegre en base a info del IVC. Segmentación de manzanas y renombramiento. Antes Mza 54 y 58 (unión de dos sectores de manzanas anteriomente diferentes),Barrio 21-24,Villa 21-24 - Loma Alegre 9,6031.241,Loma Alegre
+957,Villa 21-24,Villa 21-24,Villas,Loma Alegre 7,Redigitalización en Junio de 2020 en el Sector Loma  Alegre en base a info del IVC. Segmentación de manzanas y renombramiento. Antes Mza 54,Barrio 21-24,Villa 21-24 - Loma Alegre 7,3452.422,Loma Alegre
+958,Villa 21-24,Villa 21-24,Villas,Loma Alegre 1,Modificación de digitalización (mínima) por USIG en Enero de 2017 - Redigitalización en Junio de 2020 en el Sector Loma Alegre en base a info del IVC. Segmentación de manzanas y renombramiento. Antes Mza 58,Barrio 21-24,Villa 21-24 - Loma Alegre 1,15999.134,Loma Alegre
+959,Villa 21-24,Villa 21-24,Villas,Loma Alegre 2,Modificación de digitalización (mínima) por USIG en Enero de 2017 - Redigitalización en Junio de 2020 en el Sector Loma  Alegre en base a info del IVC. Segmentación de manzanas y renombramiento. Antes Mza 58,Barrio 21-24,Villa 21-24 - Loma Alegre 2,3804.724,Loma Alegre
+960,Villa 21-24,Villa 21-24,Villas,Loma Alegre 3,Redigitalización en Junio de 2020 en el Sector Loma  Alegre en base a info del IVC. Segmentación de manzanas y renombramiento. Antes Mza 58 y 59 (unión de dos sectores de manzanas anteriomente diferentes),Barrio 21-24,Villa 21-24 - Loma Alegre 3,4387.729,Loma Alegre
+961,Villa 21-24,Villa 21-24,Villas,Loma Alegre 5,"Redigitalización en Junio de 2020 en el Sector Loma Alegre en base a info del IVC. Segmentación de manzanas y renombramiento. Antes Mza 54, 58 y 59 (unión de dos sectores de manzanas anteriomente diferentes)",Barrio 21-24,Villa 21-24 - Loma Alegre 5,4737.849,Loma Alegre
+962,Villa 21-24,Villa 21-24,Villas,San Blas 5,Redigitalizaciòn en Mayo y Junio 2020 en base a info enviada por IVC y chequeada en foto aèrea. División de sectores. Modificaciòn nomenclatura: antes Manzana 51 Sector C,Barrio 21-24,Villa 21-24 - San Blas 5,8657.956,San Blas
+963,Villa 21-24,Villa 21-24,Villas,San Blas 6,Redigitalizaciòn en Mayo y Junio 2020 en base a info enviada por IVC y chequeada en foto aèrea. División de sectores. Modificaciòn nomenclatura: antes Manzana 51 Sector A,Barrio 21-24,Villa 21-24 - San Blas 6,5510.972,San Blas
+964,Villa 21-24,Villa 21-24,Villas,San Blas 1,Redigitalizaciòn en Mayo y Junio 2020 en base a info enviada por IVC y chequeada en foto aèrea. División de sectores. Modificaciòn nomenclatura: antes Manzana 51 Sector C,Barrio 21-24,Villa 21-24 - San Blas 1,8365.350,San Blas
+965,Villa 21-24,Villa 21-24,Villas,San Blas 2,"Redigitalizaciòn en Mayo y Junio 2020 en base a info enviada por IVC y chequeada en foto aèrea. División de sectores. Modificaciòn nomenclatura: antes Manzana 51 Sector A, C y Anexo San Blas (distintos sectores se unieron)",Barrio 21-24,Villa 21-24 - San Blas 2,7934.482,San Blas
+966,Villa 21-24,Villa 21-24,Villas,San Blas 3,Redigitalizaciòn en Mayo y Junio 2020 en base a info enviada por IVC y chequeada en foto aèrea. División de sectores. Modificaciòn nomenclatura: antes Manzana  Sector 51 A y Anexo San Blas (se unieron distintas partes),Barrio 21-24,Villa 21-24 - San Blas 3,9907.312,San Blas
