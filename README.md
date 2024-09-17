@@ -149,9 +149,15 @@ De esta manera, los desarrolladores no asumen ninguna responsabilidad y no son r
         - [ ] Armar guia para "Agregar capas de mapa"
         - [ ] Armar guia para "Armar capas de mapa"
         - [ ] Armar guia para "Procesar set de datos de BA DATA"
+        - [x] Armar guia para "Convertir tablas de datos a capas de mapa - Python" [Testeado → Deprecado]
+        - [x] Armar guia para "Configurar Entorno Virtual"
+        - [x] Armar guia para "Convertir tablas de datos a capas de mapa - QGIS" [Testeado → Deprecado]
+        - [ ] Armar guia para "Convertir tablas de datos a capas de mapa - Python"
         - [ ] Armar glosario "Coloquio tecnico"
         - [ ] Armar glosario "Librerias utilizadas"
         - [ ] Armar la pagina guia de uso "Normas de colaboracion"
+    - [x] Agregar carpeta con set de datos.
+    - [x] Agregar carpeta con recursos para la wiki
 - [ ] Publicar en Linkedin
 
 ### Licencia
