@@ -1,0 +1,4 @@
+En esta carpeta encontraras los siguientes archivos:
+- Datasets de BA Data, en diversos formatos, pero mayormente en CSV. Conservan el nombre original del archivo tal cual es descargado del portal.
+- Tablas de datos del proyecto; son versiones que trabajan sobre los datos previos y comienzan con una primera pagina que servira para cargar datos a la capa de mapa. Más info en la wiki del proyecto.
+- Capas de mapa en formato KML, listas para ser importadas a Google My Maps, Google Earth Pro, u otro software que sea compatible con este formato.
