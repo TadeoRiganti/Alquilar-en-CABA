@@ -1,7 +1,7 @@
 # Alquilar-en-CABA
 Este repositorio contiene todos los documentos con los cuales esta herramienta fue desarrollada. Incluye la documentación técnica, scripts utilizados para el procesamiento de datos y guias de uso, (por si alguien quiere contribuir con el proyecto).
 
-<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/gh-banner-readme.png">
+<div align="center"><img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/gh-banner-readme.png"></div>
 
 ## Descripción
 
@@ -16,7 +16,7 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
 
 Las capas tematicas permiten visualizar **datos contextuales** de sumo interes, que no siempre estan disponibles, lo que agiliza tomar una decision y conseguir el **alquiler adecuado en el momento indicado**.
 
-<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-capas-de-mapa.png" height=640>
+<div align="center"><img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-capas-de-mapa.png" height=640></div>
 
 En esta primera versión, las capas de mapa **disponibles** son:
   - **Urbanismo:**
@@ -33,26 +33,31 @@ En esta primera versión, las capas de mapa **disponibles** son:
 
 <br> 
 
-### Planilla de carga
+### Planilla de seguimiento
 
-Esta planilla **transforma tu lista** de alquileres relevados a una capa de mapa con todas las ubicaciones.
-A diferencia de la carga manual, se genera automaticamente una **descripcion con datos clave**, que aparece como una ventana flotante al hacer click en cualquier marcador.
+Por si sola, sirve para centralizar tu relevamiento y, a medida que tu lista crece, poder filtrarlo de manera personalizada. 
+Si se la utiliza en tandem, esta planilla te permite **exportar la lista de alquileres como una capa de mapa**.
 
-<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-planilla-mapa-2.png">
+<div align="center"><img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-planilla-mapa-2.png"></div>
+
+Esto no solo agiliza mucho el proceso de seguimiento, sino que genera una **descripcion con datos clave**, que aparece como una ventana flotante al hacer click en cualquier marcador:
+
+<div align="center"><img " width="480px" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Cliparts/clip-mensaje-flotante.png"></div>
 
 <br>
 
 #### Seguimiento automatico
 
-Opcionalmente, podés elegir **automatizar el seguimiento** de las publicaciones de alquileres, **actualizando los datos en tiempo real** para que siempre tengas la información correcta.
+Adicionalmente, podés elegir **automatizar el seguimiento** de las publicaciones de alquileres, permitiendo que los datos **se actualicen en tiempo real**, permitiendo que te enfoques en tareas mas importantes.
+En la siguiente imagen podés ver como funciona; simplemente copias y pegas el enlace y la planilla se encarga de cargar el resto de los datos.
+<br>
+
+<div align="center"><img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Cliparts/gif-carga-automatica.gif"></div>
 
 <br>
 
-<img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Cliparts/gif-carga-automatica.gif">
-
-<br>
-
-Como esta funcionalidad **extrae datos directamente de sitios web**, esta opción está [**desactivada por defecto**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos) en la hoja de cálculo (en la wiki esta la [guía de uso para conectar el modulo](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Activar-el-seguimiento-automatico).
+Sin embargo, esta funcionalidad esta desactivada por defecto, porque utiliza tecnicas de "webscrapping" (**extrae datos directamente de sitios web**). No todas las paginas permiten esta practica, por lo que [debe utilizarse responsablemente](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos).
+Si de todas formas te interesa usarlo, podés seguir la [guía de uso para conectar el modulo](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Activar-el-seguimiento-automatico).
 
 <br>
 
