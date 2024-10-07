@@ -6,13 +6,15 @@ Este repositorio contiene todos los documentos con los cuales esta herramienta f
 ## Descripción
 
 Capital federal es la ciudad **más poblada** del país y mudarse a este destino puede ser todo un desafio. 
+El usuario promedio tarda alrededor de **45 dias en tomar una decision final**. Tiempo en el cual muchos avisos pueden finalizar, lo que puede alargar aun mas el proceso.
+
 Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decisión informada**, basada en [**datos reales**]((https://data.buenosaires.gob.ar/dataset/)) sobre transporte, seguridad, servicios y puntos de interés.
 
-### Funcionalidades
+## Funcionalidades
 
-#### Capas de mapa
+### Capas de mapa
 
-Es como el [mapa interactivo de la ciudad](https://mapa.buenosaires.gob.ar/), pero con la posibilidad de elegir ver lo que te importa **al mismo tiempo**.
+Las capas tematicas permiten visualizar **datos contextuales** de sumo interes, que no siempre estan disponibles, lo que agiliza tomar una decision y conseguir el **alquiler adecuado en el momento indicado**.
 
 <img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-capas-de-mapa.png" height=640>
 
@@ -31,7 +33,7 @@ En esta primera versión, las capas de mapa **disponibles** son:
 
 <br> 
 
-#### Planilla de carga
+### Planilla de carga
 
 Esta planilla **transforma tu lista** de alquileres relevados a una capa de mapa con todas las ubicaciones.
 A diferencia de la carga manual, se genera automaticamente una **descripcion con datos clave**, que aparece como una ventana flotante al hacer click en cualquier marcador.
@@ -54,7 +56,7 @@ Como esta funcionalidad **extrae datos directamente de sitios web**, esta opció
 
 <br>
 
-### Desarrollado con
+## Desarrollado con
 
 - [Google My Maps](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/My-Maps-%E2%80%90-Implementacion)
 - [Google Sheets](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Sheets-%E2%80%90-Implementacion)
@@ -84,22 +86,6 @@ Si queres armar una capa de mapa basada con los set de datos de [BA DATA](https:
 ### Prerrequisitos
 
 Tener una cuenta de Google.
-
-### Instalacion
-
-Completar! Ideally, write a script whose usage is described here.
-
-### Configuracion
-
-Completar! Manual, context-specific tasks not covered in the installation process.
-
-### Uso
-
-Completar! Agregar GIFS!
-
-### Preguntas frecuentes
-
-Completar!
 
 <br> 
 
@@ -152,6 +138,8 @@ De esta manera, los desarrolladores no asumen ninguna responsabilidad y no son r
         - [x] Armar guia para "Convertir tablas de datos a capas de mapa - Python" [Testeado → Deprecado]
         - [x] Armar guia para "Configurar Entorno Virtual"
         - [x] Armar guia para "Convertir tablas de datos a capas de mapa - QGIS" [Testeado → Deprecado]
+        - [x] Desarrollar Conversor WKT a KML No-code
+        - [x] Armar guía para "Convertir tablas de datos a capas de mapa - Freebie" [Testeado]
         - [ ] Armar guia para "Convertir tablas de datos a capas de mapa - Python"
         - [ ] Armar glosario "Coloquio tecnico"
         - [ ] Armar glosario "Librerias utilizadas"
