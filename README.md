@@ -15,7 +15,6 @@ Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decis
 ### Capas de mapa
 
 Las capas tematicas permiten visualizar **datos contextuales** de sumo interes, que no siempre estan disponibles, lo que agiliza tomar una decision y conseguir el **alquiler adecuado en el momento indicado**.
-
 <div align="center"><img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-capas-de-mapa.png" height=640></div>
 
 En esta primera versión, las [**capas tematicas**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Sobre-las-capas-tematicas) disponibles son:
