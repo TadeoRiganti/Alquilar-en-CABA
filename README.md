@@ -55,7 +55,7 @@ En la siguiente imagen podés ver como funciona; simplemente copias y pegas el e
 
 <br>
 
-Sin embargo, esta funcionalidad esta desactivada por defecto, porque utiliza tecnicas de "webscrapping" (**extrae datos directamente de sitios web**). No todas las paginas permiten esta practica, por lo que [debe utilizarse responsablemente](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos).
+Sin embargo, esta funcionalidad esta desactivada por defecto, porque utiliza tecnicas de "web scrapping" (**extrae datos directamente de sitios web**). No todas las paginas permiten esta practica, por lo que [debe utilizarse responsablemente](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Planilla-de-carga#modulo-de-extraccion-de-datos).
 Si de todas formas te interesa usarlo, podés seguir la [guía de uso para conectar el modulo](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Activar-el-seguimiento-automatico).
 
 <br>
@@ -76,7 +76,7 @@ Nada más que tener una cuenta de Google.
 
 ### Enlaces
 
-- [**Mapa interactivo**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Obtener-una-copia-de-Alquilar-en-CABA))
+- [**Mapa interactivo**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Obtener-una-copia-de-Alquilar-en-CABA)
 - [**Planilla de carga**](https://docs.google.com/spreadsheets/d/1n8KmH8Q9s2Fp96RFHQW84AAExconjnvSWJ40BhUe-6I/copy)
 - [**Modulo Extracción de datos**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Guia-de-instalacion-%E2%80%90-Seguimiento-automatico)
 
