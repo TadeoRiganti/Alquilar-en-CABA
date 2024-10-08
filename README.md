@@ -18,7 +18,7 @@ Las capas tematicas permiten visualizar **datos contextuales** de sumo interes, 
 
 <div align="center"><img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Infografias/infografia-capas-de-mapa.png" height=640></div>
 
-En esta primera versión, las capas de mapa **disponibles** son:
+En esta primera versión, las [**capas tematicas**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki#) disponibles son:
   - **Urbanismo:**
     - Comunas y barrios.
     - Villas y asentamientos informales.
