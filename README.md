@@ -134,8 +134,9 @@ De esta manera, los desarrolladores no asumen ninguna responsabilidad y no son r
     - [x] Armar la wiki del proyecto
         - [x] Agregar documentacion tecnica
         - [x] Subir el script de python
-        - [x] Armar la pagina guia de uso "Procesamiento de datos"
         - [x] Armar tutorial para conseguir una copia
+        - [x] Armar articulo sobre "Capas tematicas"
+        - [x] Armar la pagina guia de uso "Procesamiento de datos"
         - [ ] Armar guia para "Agregar capas de mapa"
         - [ ] Armar guia para "Armar capas de mapa"
         - [ ] Armar guia para "Procesar set de datos de BA DATA"
