@@ -121,6 +121,9 @@ De esta manera, los desarrolladores no asumen ninguna responsabilidad y no son r
 
 - [x] Publicar el avance del proyecto
 - [x] Crear la pagina de Facebook
+- [x] Lanzar el Mapa interactivo v1
+- [x] Lanzar Planilla de seguimiento v1
+- [x] Lanzar Modulo de extraccion v1
 - [x] Armar la presentación en Behance
     - [x] Esquematizar presentacion
     - [x] Armar infografias
@@ -136,16 +139,22 @@ De esta manera, los desarrolladores no asumen ninguna responsabilidad y no son r
         - [x] Subir el script de python
         - [x] Armar tutorial para conseguir una copia
         - [x] Armar articulo sobre "Capas tematicas"
-        - [x] Armar la pagina guia de uso "Procesamiento de datos"
-        - [ ] Armar guia para "Agregar capas de mapa"
+        - [x] Armar guia para importar lista de alquileres
+        - [x] Armar guia para exportar lista de alquileres
+        - [ ] Armar la pagina guia de uso "Procesamiento de datos"
+        - [x] Armar guia para "Agregar capas de mapa"
         - [ ] Armar guia para "Armar capas de mapa"
+        - [x] Armar guia para agregar marcadores en el mapa
+        - [x] Armar guia para cambiar estilo a marcadores
         - [ ] Armar guia para "Procesar set de datos de BA DATA"
         - [x] Armar guia para "Convertir tablas de datos a capas de mapa - Python" [Testeado → Deprecado]
         - [x] Armar guia para "Configurar Entorno Virtual"
         - [x] Armar guia para "Convertir tablas de datos a capas de mapa - QGIS" [Testeado → Deprecado]
         - [x] Desarrollar Conversor WKT a KML No-code
         - [x] Armar guía para "Convertir tablas de datos a capas de mapa - Freebie" [Testeado]
-        - [ ] Armar guia para "Convertir tablas de datos a capas de mapa - Python"
+        - [ ] Armar guia para "Convertir tablas de datos a capas de mapa - SimpleKML Python"
+        - [x] Armar guia introductoria al Web Scrapping
+        - [x] Armar guia de Buenas practicas para el Web Scrapping
         - [ ] Armar glosario "Coloquio tecnico"
         - [ ] Armar glosario "Librerias utilizadas"
         - [ ] Armar la pagina guia de uso "Normas de colaboracion"
