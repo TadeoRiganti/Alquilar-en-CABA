@@ -77,8 +77,8 @@ Nada más que tener una cuenta de Google.
 ### Enlaces
 
 - [**Mapa interactivo**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Obtener-una-copia-de-Alquilar-en-CABA)
-- [**Planilla de carga**](https://docs.google.com/spreadsheets/d/1n8KmH8Q9s2Fp96RFHQW84AAExconjnvSWJ40BhUe-6I/copy)
-- [**Modulo Extracción de datos**](https://github.com/TadeoRiganti/Alquilar-en-CABA/wiki/Guia-de-instalacion-%E2%80%90-Seguimiento-automatico)
+- [**Planilla de seguimiento**](https://docs.google.com/spreadsheets/d/1w_ea3-AgFlaWkyAN03BEeTfqYggDrBo95j8hImDB_XE/copy)
+- [**Modulo Extracción de datos**](https://docs.google.com/spreadsheets/d/1W0FURygTfHfImR_QHN56TAK-AOT_DkEXKNSa6JATVJ8/copy)
 
 <br> 
 
