@@ -8,7 +8,7 @@ Este repositorio contiene todos los documentos con los cuales esta herramienta f
 Capital federal es la ciudad **más poblada** del país y mudarse a este destino puede ser todo un desafio. 
 El usuario promedio tarda alrededor de **45 dias en tomar una decision final**. Tiempo en el cual muchos avisos pueden finalizar, lo que puede alargar aun mas el proceso.
 
-Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decisión informada**, basada en [**datos reales**]((https://data.buenosaires.gob.ar/dataset/)) sobre transporte, seguridad, servicios y puntos de interés.
+Con esta herramienta, podés **comparar** diferentes barrios y **tomar una decisión informada**, basada en [**datos reales**](https://data.buenosaires.gob.ar/dataset/) sobre transporte, seguridad, servicios y puntos de interés.
 
 ## Funcionalidades
 
