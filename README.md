@@ -139,14 +139,14 @@ De esta manera, los desarrolladores no asumen ninguna responsabilidad y no son r
         - [x] Subir el script de python
         - [x] Armar tutorial para conseguir una copia
         - [x] Armar articulo sobre "Capas tematicas"
-        - [x] Armar guia para importar lista de alquileres
         - [x] Armar guia para exportar lista de alquileres
-        - [ ] Armar la pagina guia de uso "Procesamiento de datos"
+        - [x] Armar guia para importar lista de alquileres
+        - [x] Armar guia para "Cambiar estilo a marcadores"
         - [x] Armar guia para "Agregar capas de mapa"
         - [ ] Armar guia para "Armar capas de mapa"
-        - [x] Armar guia para agregar marcadores en el mapa
-        - [x] Armar guia para cambiar estilo a marcadores
+        - [x] Armar guia para "Agregar marcadores en el mapa"
         - [ ] Armar guia para "Procesar set de datos de BA DATA"
+        - [ ] Armar la pagina guia de uso "Procesamiento de datos"
         - [x] Armar guia para "Convertir tablas de datos a capas de mapa - Python" [Testeado → Deprecado]
         - [x] Armar guia para "Configurar Entorno Virtual"
         - [x] Armar guia para "Convertir tablas de datos a capas de mapa - QGIS" [Testeado → Deprecado]
@@ -160,7 +160,7 @@ De esta manera, los desarrolladores no asumen ninguna responsabilidad y no son r
         - [ ] Armar la pagina guia de uso "Normas de colaboracion"
     - [x] Agregar carpeta con set de datos.
     - [x] Agregar carpeta con recursos para la wiki
-- [ ] Publicar en Linkedin
+- [x] Publicar en Linkedin
 
 ### Licencia
 
