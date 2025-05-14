@@ -51,7 +51,7 @@ Adicionalmente, podés elegir **automatizar el seguimiento** de las publicacione
 En la siguiente imagen podés ver como funciona; simplemente copias y pegas el enlace y la planilla se encarga de cargar el resto de los datos.
 <br>
 
-<div align="center"><img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/main/kit-de-prensa/Cliparts/gif-carga-automatica.gif"></div>
+<div align="center"><img align="center" src="https://github.com/TadeoRiganti/Alquilar-en-CABA/blob/d84b388e37a1b81e078fbce700d750763e32c47d/kit-de-prensa/Cliparts/gif-carga-automatica.gif"></div>
 
 <br>
 
